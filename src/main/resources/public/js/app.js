@@ -21,15 +21,28 @@
 // });
 
 // web-03
-var temp ="";
+// var temp ="";
+// window.onload = function () {
+//     document.getElementById("btn1").onclick = function () {
+//         document.getElementById("result").innerHTML = document.getElementById("input1").value;
+//     }
+// }
+//
+// $(document).ready(function () {
+//     $("#btn2").click(function () {
+//         $("#result").text($("#input1").val());
+//     });
+// });
+
+// web-04
 window.onload = function () {
-    document.getElementById("btn1").onclick = function () {
-        document.getElementById("result").innerHTML = document.getElementById("input1").value;
+    document.getElementById("select1").onchange = function () {
+        document.getElementById("result").innerHTML = document.getElementById("select1").value;
     }
 }
 
 $(document).ready(function () {
-    $("#btn2").click(function () {
-        $("#result").text($("#input1").val());
+    $("#select2").on("change", function () {
+        $("#result").text($("#select2").val());
     });
 });
