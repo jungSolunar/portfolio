@@ -1,0 +1,146 @@
+ics:
+  ip: 10.61.129.81
+  port: 8081
+  api: v2.0
+  id: athene
+  pw: athene
+
+# UI Server
+server:
+  port: 8077
+  api: v4.0
+#  contextPath: /ubs
+  session:
+    timeout : 600
+  auth: false
+  access:
+      ip: false
+  token:
+    expiredInterval: 1  #HOUR
+  ssl:
+    enabled: false
+    key-store: classpath:https/keystore.jks
+    key-store-password: openstack
+    key-password: openstack
+    key-alias: athene
+    trust-store: classpath:https/cacerts.jks
+    trust-store-password: openstack
+
+mybatis:
+  type-aliases-package: com.atto.server.type, com.atto.server.model, com.atto.server.typehandler
+  type-handlers-package: com.atto.server.typehandler, com.atto.server.type
+  mapper-locations: classpath:com/atto/server/mapper/*.xml
+  configuration:
+    map-underscore-to-camel-case: true
+    default-fetch-size: 100
+    default-statement-timeout: 30
+
+# influxDB
+influx:
+  url: http://10.61.129.81:8086
+  database: athene_metric
+  username: openstack
+  password: openstack
+
+# RabbitMQ
+rabbitmq:
+  host: 10.61.129.81
+  port: 5672
+  username: openstack
+  password: openstack
+  heartbeat-rate: 60
+  auth-recovery-enabled: true
+  ha-enabled: true
+  durable: true
+
+# ElasticSearch
+elasticsearch:
+  ip: 10.61.129.81
+  port: 9200
+
+spring:
+  profiles:
+    active: remote
+  application:
+    name: athene-ubs
+  datasource:
+    driver-class-name: org.mariadb.jdbc.Driver
+    show-sql: true
+    initailize: false
+    username: root
+  tomcat:
+    initialSize: 5
+    maxActive: 100
+    testOnBorrow: true
+    validationQuery: select 1
+  http:
+    encoding:
+      force: true
+      force-request: true
+      force-response: true
+#  resources:
+#    static-locations: classpath:/resources/static/
+#  mvc:
+##    static-path-pattern: /resources/**
+#    view:
+#      prefix: /resources/public/
+#      suffix: .html
+
+---
+#AJ local
+spring:
+  profiles: aj
+  datasource:
+    url: jdbc:mariadb://localhost:3306/ubs
+    password: atto1234
+---
+spring:
+  profiles: remote
+  datasource:
+    url: jdbc:mariadb://10.61.129.201:3306/ubs
+    password: openstack
+---
+
+externalLogin:
+  client:
+    clientId: foo
+    clientSecret: bar
+    redirectUri: https://localhost:8443/ubs/v4.0/external_login/code_test_callback
+#   redirectUri: http://localhost:8009/ubs/v4.0/external_login/code_callback
+    scope: read
+    responseType: code
+    codeUri: http://localhost:8080/oauth/authorize
+    accessTokenUri: http://localhost:8080/oauth/token
+    grantType: authorization_code
+
+oauthUserConfig:
+  external:
+    user_id: setLoginId
+    user_password: setLoginPw
+    user_name: setName
+    user_email: setEmail
+    emp_no: setUserUid
+    company_name: setOffice
+    user_mobile: setPhone
+    dept_name: setDepartment
+
+logging:
+  path: ./logs/
+  pattern:
+    console: "%d{yyyy-MM-dd HH:mm:ss} [%thread] %-5level %logger{36} - %msg%n"
+    file: "%d{yyyy-MM-dd HH:mm:ss} [%thread] %-5level %logger{36} - %msg%n"
+  config: classpath:logback-spring.xml
+  level:
+    root: DEBUG
+    com.atto.server: DEBUG
+    org.springframework: OFF
+    ch.qos.logback: OFF
+    org.apache.tomcat: INFO
+    org.apache.http: INFO
+    javax: INFO
+    org.apache: INFO
+
+server:
+  error:
+    whitelabel:
+      enabled: true

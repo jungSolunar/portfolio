@@ -1,0 +1,1239 @@
+2018-06-20 15:13:08 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationEnvironmentPreparedEvent
+2018-06-20 15:13:08 [main] INFO  s.p.server.ApiServerApplication - Starting ApiServerApplication on JUNGDAHAEui-MacBook-Pro-2.local with PID 16241 (/Users/dhjung/code/myGithub/portfolio/build/classes/main started by dhjung in /Users/dhjung/code/myGithub/portfolio)
+2018-06-20 15:13:08 [main] DEBUG s.p.server.ApiServerApplication - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2018-06-20 15:13:08 [main] INFO  s.p.server.ApiServerApplication - The following profiles are active: remote
+2018-06-20 15:13:08 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationPreparedEvent
+2018-06-20 15:13:08 [main] DEBUG o.m.s.b.a.MybatisAutoConfiguration - Searching for mappers annotated with @Mapper
+2018-06-20 15:13:08 [main] DEBUG o.m.s.b.a.MybatisAutoConfiguration - Using auto-configuration base package 'solunar.portfolio.server'
+2018-06-20 15:13:08 [main] WARN  o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[solunar.portfolio.server]' package. Please check your configuration.
+2018-06-20 15:13:08 [main] INFO  c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Post-processing PropertySource instances
+2018-06-20 15:13:08 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource systemProperties [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 15:13:08 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource systemEnvironment [org.springframework.core.env.SystemEnvironmentPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 15:13:08 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource random [org.springframework.boot.context.config.RandomValuePropertySource] to EncryptablePropertySourceWrapper
+2018-06-20 15:13:08 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource applicationConfig: [classpath:/application.yml]#remote [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 15:13:08 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource applicationConfig: [classpath:/application.yml] [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 15:13:08 [main] INFO  c.u.j.r.DefaultLazyPropertyResolver - Property Resolver custom Bean not found with name 'encryptablePropertyResolver'. Initializing Default Property Resolver
+2018-06-20 15:13:08 [main] INFO  c.u.j.d.DefaultLazyPropertyDetector - Property Detector custom Bean not found with name 'encryptablePropertyDetector'. Initializing Default Property Detector
+2018-06-20 15:13:08 [main] DEBUG o.m.s.b.a.MybatisAutoConfiguration - No org.mybatis.spring.mapper.MapperFactoryBean found.
+2018-06-20 15:13:08 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.type' for aliases
+2018-06-20 15:13:08 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.model' for aliases
+2018-06-20 15:13:08 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.typehandler' for aliases
+2018-06-20 15:13:08 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.typehandler' for type handlers
+2018-06-20 15:13:08 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.type' for type handlers
+2018-06-20 15:13:08 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Property 'mapperLocations' was not specified or no matching resources found
+2018-06-20 15:13:09 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ContextRefreshedEvent
+2018-06-20 15:13:09 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ContextRefreshedEvent
+2018-06-20 15:13:09 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationReadyEvent
+2018-06-20 15:13:09 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationReadyEvent
+2018-06-20 15:13:09 [main] INFO  s.p.server.ApiServerApplication - Started ApiServerApplication in 1.167 seconds (JVM running for 1.45)
+2018-06-20 15:13:09 [main] INFO  s.p.server.ApiServerApplication - Sdlan ubs Started
+2018-06-20 15:13:09 [Thread-2] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ContextClosedEvent
+2018-06-20 15:13:09 [Thread-2] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ContextClosedEvent
+2018-06-20 15:13:41 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationEnvironmentPreparedEvent
+2018-06-20 15:13:41 [main] INFO  s.p.server.ApiServerApplication - Starting ApiServerApplication on JUNGDAHAEui-MacBook-Pro-2.local with PID 16281 (/Users/dhjung/code/myGithub/portfolio/build/classes/main started by dhjung in /Users/dhjung/code/myGithub/portfolio)
+2018-06-20 15:13:41 [main] DEBUG s.p.server.ApiServerApplication - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2018-06-20 15:13:41 [main] INFO  s.p.server.ApiServerApplication - The following profiles are active: remote
+2018-06-20 15:13:41 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationPreparedEvent
+2018-06-20 15:13:41 [main] DEBUG o.m.s.b.a.MybatisAutoConfiguration - Searching for mappers annotated with @Mapper
+2018-06-20 15:13:41 [main] DEBUG o.m.s.b.a.MybatisAutoConfiguration - Using auto-configuration base package 'solunar.portfolio.server'
+2018-06-20 15:13:41 [main] WARN  o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[solunar.portfolio.server]' package. Please check your configuration.
+2018-06-20 15:13:41 [main] INFO  c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Post-processing PropertySource instances
+2018-06-20 15:13:41 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource systemProperties [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 15:13:41 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource systemEnvironment [org.springframework.core.env.SystemEnvironmentPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 15:13:41 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource random [org.springframework.boot.context.config.RandomValuePropertySource] to EncryptablePropertySourceWrapper
+2018-06-20 15:13:41 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource applicationConfig: [classpath:/application.yml]#remote [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 15:13:41 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource applicationConfig: [classpath:/application.yml] [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 15:13:41 [main] INFO  c.u.j.r.DefaultLazyPropertyResolver - Property Resolver custom Bean not found with name 'encryptablePropertyResolver'. Initializing Default Property Resolver
+2018-06-20 15:13:41 [main] INFO  c.u.j.d.DefaultLazyPropertyDetector - Property Detector custom Bean not found with name 'encryptablePropertyDetector'. Initializing Default Property Detector
+2018-06-20 15:13:41 [main] DEBUG o.m.s.b.a.MybatisAutoConfiguration - No org.mybatis.spring.mapper.MapperFactoryBean found.
+2018-06-20 15:13:41 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.type' for aliases
+2018-06-20 15:13:41 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.model' for aliases
+2018-06-20 15:13:41 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.typehandler' for aliases
+2018-06-20 15:13:41 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.typehandler' for type handlers
+2018-06-20 15:13:41 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.type' for type handlers
+2018-06-20 15:13:41 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Property 'mapperLocations' was not specified or no matching resources found
+2018-06-20 15:13:41 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ContextRefreshedEvent
+2018-06-20 15:13:41 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ContextRefreshedEvent
+2018-06-20 15:13:41 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationReadyEvent
+2018-06-20 15:13:41 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationReadyEvent
+2018-06-20 15:13:41 [main] INFO  s.p.server.ApiServerApplication - Started ApiServerApplication in 1.192 seconds (JVM running for 1.477)
+2018-06-20 15:13:41 [main] INFO  s.p.server.ApiServerApplication - Server Started
+2018-06-20 15:13:41 [Thread-2] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ContextClosedEvent
+2018-06-20 15:13:41 [Thread-2] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ContextClosedEvent
+2018-06-20 15:15:01 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationEnvironmentPreparedEvent
+2018-06-20 15:15:02 [main] INFO  s.p.server.ApiServerApplication - Starting ApiServerApplication on JUNGDAHAEui-MacBook-Pro-2.local with PID 16377 (/Users/dhjung/code/myGithub/portfolio/build/classes/main started by dhjung in /Users/dhjung/code/myGithub/portfolio)
+2018-06-20 15:15:02 [main] DEBUG s.p.server.ApiServerApplication - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+2018-06-20 15:15:02 [main] INFO  s.p.server.ApiServerApplication - The following profiles are active: remote
+2018-06-20 15:15:02 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationPreparedEvent
+2018-06-20 15:15:02 [background-preinit] DEBUG org.jboss.logging - Logging Provider: org.jboss.logging.Slf4jLoggerProvider found via system property
+2018-06-20 15:15:02 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.6.Final
+2018-06-20 15:15:02 [background-preinit] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 15:15:02 [main] DEBUG o.m.s.b.a.MybatisAutoConfiguration - Searching for mappers annotated with @Mapper
+2018-06-20 15:15:02 [main] DEBUG o.m.s.b.a.MybatisAutoConfiguration - Using auto-configuration base package 'solunar.portfolio.server'
+2018-06-20 15:15:02 [main] WARN  o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[solunar.portfolio.server]' package. Please check your configuration.
+2018-06-20 15:15:02 [main] INFO  c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Post-processing PropertySource instances
+2018-06-20 15:15:02 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource servletConfigInitParams [org.springframework.core.env.PropertySource$StubPropertySource] to EncryptablePropertySourceWrapper
+2018-06-20 15:15:02 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource servletContextInitParams [org.springframework.core.env.PropertySource$StubPropertySource] to EncryptablePropertySourceWrapper
+2018-06-20 15:15:02 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource systemProperties [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 15:15:02 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource systemEnvironment [org.springframework.core.env.SystemEnvironmentPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 15:15:02 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource random [org.springframework.boot.context.config.RandomValuePropertySource] to EncryptablePropertySourceWrapper
+2018-06-20 15:15:02 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource applicationConfig: [classpath:/application.yml]#remote [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 15:15:02 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource applicationConfig: [classpath:/application.yml] [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 15:15:02 [main] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 15:15:02 [main] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 15:15:02 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2018-06-20 15:15:02 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2018-06-20 15:15:02 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy47
+2018-06-20 15:15:02 [main] DEBUG o.h.v.i.xml.ValidationXmlParser - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2018-06-20 15:15:02 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via user class loader
+2018-06-20 15:15:02 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via TCCL
+2018-06-20 15:15:02 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2018-06-20 15:15:02 [main] DEBUG o.h.v.i.xml.ValidationXmlParser - No META-INF/validation.xml found. Using annotation based configuration only.
+2018-06-20 15:15:02 [main] INFO  c.u.j.r.DefaultLazyPropertyResolver - Property Resolver custom Bean not found with name 'encryptablePropertyResolver'. Initializing Default Property Resolver
+2018-06-20 15:15:02 [main] INFO  c.u.j.d.DefaultLazyPropertyDetector - Property Detector custom Bean not found with name 'encryptablePropertyDetector'. Initializing Default Property Detector
+2018-06-20 15:15:03 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationFailedEvent
+2018-06-20 15:15:03 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationFailedEvent
+2018-06-20 15:15:24 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationEnvironmentPreparedEvent
+2018-06-20 15:15:24 [main] INFO  s.p.server.ApiServerApplication - Starting ApiServerApplication on JUNGDAHAEui-MacBook-Pro-2.local with PID 16406 (/Users/dhjung/code/myGithub/portfolio/build/classes/main started by dhjung in /Users/dhjung/code/myGithub/portfolio)
+2018-06-20 15:15:24 [main] DEBUG s.p.server.ApiServerApplication - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+2018-06-20 15:15:24 [main] INFO  s.p.server.ApiServerApplication - The following profiles are active: remote
+2018-06-20 15:15:24 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationPreparedEvent
+2018-06-20 15:15:24 [background-preinit] DEBUG org.jboss.logging - Logging Provider: org.jboss.logging.Slf4jLoggerProvider found via system property
+2018-06-20 15:15:24 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.6.Final
+2018-06-20 15:15:24 [background-preinit] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 15:15:24 [main] DEBUG o.m.s.b.a.MybatisAutoConfiguration - Searching for mappers annotated with @Mapper
+2018-06-20 15:15:24 [main] DEBUG o.m.s.b.a.MybatisAutoConfiguration - Using auto-configuration base package 'solunar.portfolio.server'
+2018-06-20 15:15:24 [main] WARN  o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[solunar.portfolio.server]' package. Please check your configuration.
+2018-06-20 15:15:24 [main] INFO  c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Post-processing PropertySource instances
+2018-06-20 15:15:25 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource servletConfigInitParams [org.springframework.core.env.PropertySource$StubPropertySource] to EncryptablePropertySourceWrapper
+2018-06-20 15:15:25 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource servletContextInitParams [org.springframework.core.env.PropertySource$StubPropertySource] to EncryptablePropertySourceWrapper
+2018-06-20 15:15:25 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource systemProperties [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 15:15:25 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource systemEnvironment [org.springframework.core.env.SystemEnvironmentPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 15:15:25 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource random [org.springframework.boot.context.config.RandomValuePropertySource] to EncryptablePropertySourceWrapper
+2018-06-20 15:15:25 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource applicationConfig: [classpath:/application.yml]#remote [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 15:15:25 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource applicationConfig: [classpath:/application.yml] [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 15:15:25 [main] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 15:15:25 [main] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 15:15:25 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2018-06-20 15:15:25 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2018-06-20 15:15:25 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy47
+2018-06-20 15:15:25 [main] DEBUG o.h.v.i.xml.ValidationXmlParser - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2018-06-20 15:15:25 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via user class loader
+2018-06-20 15:15:25 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via TCCL
+2018-06-20 15:15:25 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2018-06-20 15:15:25 [main] DEBUG o.h.v.i.xml.ValidationXmlParser - No META-INF/validation.xml found. Using annotation based configuration only.
+2018-06-20 15:15:25 [main] INFO  c.u.j.r.DefaultLazyPropertyResolver - Property Resolver custom Bean not found with name 'encryptablePropertyResolver'. Initializing Default Property Resolver
+2018-06-20 15:15:25 [main] INFO  c.u.j.d.DefaultLazyPropertyDetector - Property Detector custom Bean not found with name 'encryptablePropertyDetector'. Initializing Default Property Detector
+2018-06-20 15:15:25 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2018-06-20 15:15:25 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.27
+2018-06-20 15:15:25 [localhost-startStop-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2018-06-20 15:15:25 [main] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 15:15:25 [main] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 15:15:25 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2018-06-20 15:15:25 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2018-06-20 15:15:25 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy47
+2018-06-20 15:15:25 [main] DEBUG o.h.v.i.xml.ValidationXmlParser - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2018-06-20 15:15:25 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via user class loader
+2018-06-20 15:15:25 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via TCCL
+2018-06-20 15:15:25 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2018-06-20 15:15:25 [main] DEBUG o.h.v.i.xml.ValidationXmlParser - No META-INF/validation.xml found. Using annotation based configuration only.
+2018-06-20 15:15:25 [main] DEBUG o.m.s.b.a.MybatisAutoConfiguration - No org.mybatis.spring.mapper.MapperFactoryBean found.
+2018-06-20 15:15:26 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.type' for aliases
+2018-06-20 15:15:26 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.model' for aliases
+2018-06-20 15:15:26 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.typehandler' for aliases
+2018-06-20 15:15:26 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.typehandler' for type handlers
+2018-06-20 15:15:26 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.type' for type handlers
+2018-06-20 15:15:26 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Property 'mapperLocations' was not specified or no matching resources found
+2018-06-20 15:15:26 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ContextRefreshedEvent
+2018-06-20 15:15:26 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ContextRefreshedEvent
+2018-06-20 15:15:26 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8443"]
+2018-06-20 15:15:26 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8443"]
+2018-06-20 15:15:26 [main] INFO  o.a.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2018-06-20 15:15:26 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: EmbeddedServletContainerInitializedEvent
+2018-06-20 15:15:26 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: EmbeddedServletContainerInitializedEvent
+2018-06-20 15:15:26 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationReadyEvent
+2018-06-20 15:15:26 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationReadyEvent
+2018-06-20 15:15:26 [main] INFO  s.p.server.ApiServerApplication - Started ApiServerApplication in 2.141 seconds (JVM running for 2.433)
+2018-06-20 15:15:26 [main] INFO  s.p.server.ApiServerApplication - Server Started
+2018-06-20 15:22:52 [Thread-3] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ContextClosedEvent
+2018-06-20 15:22:52 [Thread-3] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ContextClosedEvent
+2018-06-20 15:22:54 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationEnvironmentPreparedEvent
+2018-06-20 15:22:54 [main] INFO  s.p.server.ApiServerApplication - Starting ApiServerApplication on JUNGDAHAEui-MacBook-Pro-2.local with PID 16918 (/Users/dhjung/code/myGithub/portfolio/build/classes/main started by dhjung in /Users/dhjung/code/myGithub/portfolio)
+2018-06-20 15:22:54 [main] DEBUG s.p.server.ApiServerApplication - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+2018-06-20 15:22:54 [main] INFO  s.p.server.ApiServerApplication - The following profiles are active: remote
+2018-06-20 15:22:54 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationPreparedEvent
+2018-06-20 15:22:55 [background-preinit] DEBUG org.jboss.logging - Logging Provider: org.jboss.logging.Slf4jLoggerProvider found via system property
+2018-06-20 15:22:55 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.6.Final
+2018-06-20 15:22:55 [background-preinit] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 15:22:55 [main] DEBUG o.m.s.b.a.MybatisAutoConfiguration - Searching for mappers annotated with @Mapper
+2018-06-20 15:22:55 [main] DEBUG o.m.s.b.a.MybatisAutoConfiguration - Using auto-configuration base package 'solunar.portfolio.server'
+2018-06-20 15:22:55 [main] WARN  o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[solunar.portfolio.server]' package. Please check your configuration.
+2018-06-20 15:22:55 [main] INFO  c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Post-processing PropertySource instances
+2018-06-20 15:22:55 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource servletConfigInitParams [org.springframework.core.env.PropertySource$StubPropertySource] to EncryptablePropertySourceWrapper
+2018-06-20 15:22:55 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource servletContextInitParams [org.springframework.core.env.PropertySource$StubPropertySource] to EncryptablePropertySourceWrapper
+2018-06-20 15:22:55 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource systemProperties [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 15:22:55 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource systemEnvironment [org.springframework.core.env.SystemEnvironmentPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 15:22:55 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource random [org.springframework.boot.context.config.RandomValuePropertySource] to EncryptablePropertySourceWrapper
+2018-06-20 15:22:55 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource applicationConfig: [classpath:/application.yml]#remote [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 15:22:55 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource applicationConfig: [classpath:/application.yml] [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 15:22:55 [main] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 15:22:55 [main] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 15:22:55 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2018-06-20 15:22:55 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2018-06-20 15:22:55 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy48
+2018-06-20 15:22:55 [main] DEBUG o.h.v.i.xml.ValidationXmlParser - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2018-06-20 15:22:55 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via user class loader
+2018-06-20 15:22:55 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via TCCL
+2018-06-20 15:22:55 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2018-06-20 15:22:55 [main] DEBUG o.h.v.i.xml.ValidationXmlParser - No META-INF/validation.xml found. Using annotation based configuration only.
+2018-06-20 15:22:55 [main] INFO  c.u.j.r.DefaultLazyPropertyResolver - Property Resolver custom Bean not found with name 'encryptablePropertyResolver'. Initializing Default Property Resolver
+2018-06-20 15:22:55 [main] INFO  c.u.j.d.DefaultLazyPropertyDetector - Property Detector custom Bean not found with name 'encryptablePropertyDetector'. Initializing Default Property Detector
+2018-06-20 15:22:55 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2018-06-20 15:22:55 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.27
+2018-06-20 15:22:55 [localhost-startStop-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2018-06-20 15:22:56 [main] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 15:22:56 [main] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 15:22:56 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2018-06-20 15:22:56 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2018-06-20 15:22:56 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy48
+2018-06-20 15:22:56 [main] DEBUG o.h.v.i.xml.ValidationXmlParser - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2018-06-20 15:22:56 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via user class loader
+2018-06-20 15:22:56 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via TCCL
+2018-06-20 15:22:56 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2018-06-20 15:22:56 [main] DEBUG o.h.v.i.xml.ValidationXmlParser - No META-INF/validation.xml found. Using annotation based configuration only.
+2018-06-20 15:22:56 [main] DEBUG o.m.s.b.a.MybatisAutoConfiguration - No org.mybatis.spring.mapper.MapperFactoryBean found.
+2018-06-20 15:22:56 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.type' for aliases
+2018-06-20 15:22:56 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.model' for aliases
+2018-06-20 15:22:56 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.typehandler' for aliases
+2018-06-20 15:22:56 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.typehandler' for type handlers
+2018-06-20 15:22:56 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.type' for type handlers
+2018-06-20 15:22:56 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Property 'mapperLocations' was not specified or no matching resources found
+2018-06-20 15:22:56 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ContextRefreshedEvent
+2018-06-20 15:22:56 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ContextRefreshedEvent
+2018-06-20 15:22:56 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8443"]
+2018-06-20 15:22:56 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8443"]
+2018-06-20 15:22:56 [main] INFO  o.a.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2018-06-20 15:22:56 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: EmbeddedServletContainerInitializedEvent
+2018-06-20 15:22:56 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: EmbeddedServletContainerInitializedEvent
+2018-06-20 15:22:56 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationReadyEvent
+2018-06-20 15:22:56 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationReadyEvent
+2018-06-20 15:22:56 [main] INFO  s.p.server.ApiServerApplication - Started ApiServerApplication in 2.212 seconds (JVM running for 2.498)
+2018-06-20 15:22:56 [main] INFO  s.p.server.ApiServerApplication - Server Started
+2018-06-20 15:23:03 [Thread-3] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ContextClosedEvent
+2018-06-20 15:23:03 [Thread-3] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ContextClosedEvent
+2018-06-20 15:23:05 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationEnvironmentPreparedEvent
+2018-06-20 15:23:05 [main] INFO  s.p.server.ApiServerApplication - Starting ApiServerApplication on JUNGDAHAEui-MacBook-Pro-2.local with PID 16932 (/Users/dhjung/code/myGithub/portfolio/build/classes/main started by dhjung in /Users/dhjung/code/myGithub/portfolio)
+2018-06-20 15:23:05 [main] DEBUG s.p.server.ApiServerApplication - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+2018-06-20 15:23:05 [main] INFO  s.p.server.ApiServerApplication - The following profiles are active: remote
+2018-06-20 15:23:05 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationPreparedEvent
+2018-06-20 15:23:05 [background-preinit] DEBUG org.jboss.logging - Logging Provider: org.jboss.logging.Slf4jLoggerProvider found via system property
+2018-06-20 15:23:05 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.6.Final
+2018-06-20 15:23:05 [background-preinit] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 15:23:05 [main] DEBUG o.m.s.b.a.MybatisAutoConfiguration - Searching for mappers annotated with @Mapper
+2018-06-20 15:23:05 [main] DEBUG o.m.s.b.a.MybatisAutoConfiguration - Using auto-configuration base package 'solunar.portfolio.server'
+2018-06-20 15:23:05 [main] WARN  o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[solunar.portfolio.server]' package. Please check your configuration.
+2018-06-20 15:23:05 [main] INFO  c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Post-processing PropertySource instances
+2018-06-20 15:23:05 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource servletConfigInitParams [org.springframework.core.env.PropertySource$StubPropertySource] to EncryptablePropertySourceWrapper
+2018-06-20 15:23:05 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource servletContextInitParams [org.springframework.core.env.PropertySource$StubPropertySource] to EncryptablePropertySourceWrapper
+2018-06-20 15:23:05 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource systemProperties [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 15:23:05 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource systemEnvironment [org.springframework.core.env.SystemEnvironmentPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 15:23:05 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource random [org.springframework.boot.context.config.RandomValuePropertySource] to EncryptablePropertySourceWrapper
+2018-06-20 15:23:05 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource applicationConfig: [classpath:/application.yml]#remote [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 15:23:05 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource applicationConfig: [classpath:/application.yml] [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 15:23:05 [main] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 15:23:05 [main] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 15:23:05 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2018-06-20 15:23:05 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2018-06-20 15:23:05 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy48
+2018-06-20 15:23:05 [main] DEBUG o.h.v.i.xml.ValidationXmlParser - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2018-06-20 15:23:05 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via user class loader
+2018-06-20 15:23:05 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via TCCL
+2018-06-20 15:23:05 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2018-06-20 15:23:05 [main] DEBUG o.h.v.i.xml.ValidationXmlParser - No META-INF/validation.xml found. Using annotation based configuration only.
+2018-06-20 15:23:05 [main] INFO  c.u.j.r.DefaultLazyPropertyResolver - Property Resolver custom Bean not found with name 'encryptablePropertyResolver'. Initializing Default Property Resolver
+2018-06-20 15:23:05 [main] INFO  c.u.j.d.DefaultLazyPropertyDetector - Property Detector custom Bean not found with name 'encryptablePropertyDetector'. Initializing Default Property Detector
+2018-06-20 15:23:06 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2018-06-20 15:23:06 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.27
+2018-06-20 15:23:06 [localhost-startStop-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2018-06-20 15:23:06 [main] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 15:23:06 [main] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 15:23:06 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2018-06-20 15:23:06 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2018-06-20 15:23:06 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy48
+2018-06-20 15:23:06 [main] DEBUG o.h.v.i.xml.ValidationXmlParser - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2018-06-20 15:23:06 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via user class loader
+2018-06-20 15:23:06 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via TCCL
+2018-06-20 15:23:06 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2018-06-20 15:23:06 [main] DEBUG o.h.v.i.xml.ValidationXmlParser - No META-INF/validation.xml found. Using annotation based configuration only.
+2018-06-20 15:23:06 [main] DEBUG o.m.s.b.a.MybatisAutoConfiguration - No org.mybatis.spring.mapper.MapperFactoryBean found.
+2018-06-20 15:23:06 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.type' for aliases
+2018-06-20 15:23:06 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.model' for aliases
+2018-06-20 15:23:06 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.typehandler' for aliases
+2018-06-20 15:23:06 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.typehandler' for type handlers
+2018-06-20 15:23:06 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.type' for type handlers
+2018-06-20 15:23:06 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Property 'mapperLocations' was not specified or no matching resources found
+2018-06-20 15:23:06 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ContextRefreshedEvent
+2018-06-20 15:23:06 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ContextRefreshedEvent
+2018-06-20 15:23:06 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8077"]
+2018-06-20 15:23:06 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8077"]
+2018-06-20 15:23:06 [main] INFO  o.a.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2018-06-20 15:23:06 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: EmbeddedServletContainerInitializedEvent
+2018-06-20 15:23:06 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: EmbeddedServletContainerInitializedEvent
+2018-06-20 15:23:06 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationReadyEvent
+2018-06-20 15:23:06 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationReadyEvent
+2018-06-20 15:23:06 [main] INFO  s.p.server.ApiServerApplication - Started ApiServerApplication in 2.193 seconds (JVM running for 2.483)
+2018-06-20 15:23:06 [main] INFO  s.p.server.ApiServerApplication - Server Started
+2018-06-20 15:23:15 [http-nio-8077-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-06-20 15:23:15 [http-nio-8077-exec-1] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 15:23:15 [http-nio-8077-exec-1] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 15:23:16 [http-nio-8077-exec-2] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 15:23:16 [http-nio-8077-exec-2] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 15:23:16 [http-nio-8077-exec-3] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 15:23:16 [http-nio-8077-exec-3] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 15:26:01 [http-nio-8077-exec-6] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 15:26:01 [http-nio-8077-exec-6] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 15:31:05 [Thread-3] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ContextClosedEvent
+2018-06-20 15:31:05 [Thread-3] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ContextClosedEvent
+2018-06-20 15:31:06 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationEnvironmentPreparedEvent
+2018-06-20 15:31:06 [main] INFO  s.p.server.ApiServerApplication - Starting ApiServerApplication on JUNGDAHAEui-MacBook-Pro-2.local with PID 17477 (/Users/dhjung/code/myGithub/portfolio/build/classes/main started by dhjung in /Users/dhjung/code/myGithub/portfolio)
+2018-06-20 15:31:06 [main] DEBUG s.p.server.ApiServerApplication - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+2018-06-20 15:31:06 [main] INFO  s.p.server.ApiServerApplication - The following profiles are active: remote
+2018-06-20 15:31:06 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationPreparedEvent
+2018-06-20 15:31:07 [background-preinit] DEBUG org.jboss.logging - Logging Provider: org.jboss.logging.Slf4jLoggerProvider found via system property
+2018-06-20 15:31:07 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.6.Final
+2018-06-20 15:31:07 [background-preinit] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 15:31:07 [main] DEBUG o.m.s.b.a.MybatisAutoConfiguration - Searching for mappers annotated with @Mapper
+2018-06-20 15:31:07 [main] DEBUG o.m.s.b.a.MybatisAutoConfiguration - Using auto-configuration base package 'solunar.portfolio.server'
+2018-06-20 15:31:07 [main] WARN  o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[solunar.portfolio.server]' package. Please check your configuration.
+2018-06-20 15:31:07 [main] INFO  c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Post-processing PropertySource instances
+2018-06-20 15:31:07 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource servletConfigInitParams [org.springframework.core.env.PropertySource$StubPropertySource] to EncryptablePropertySourceWrapper
+2018-06-20 15:31:07 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource servletContextInitParams [org.springframework.core.env.PropertySource$StubPropertySource] to EncryptablePropertySourceWrapper
+2018-06-20 15:31:07 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource systemProperties [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 15:31:07 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource systemEnvironment [org.springframework.core.env.SystemEnvironmentPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 15:31:07 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource random [org.springframework.boot.context.config.RandomValuePropertySource] to EncryptablePropertySourceWrapper
+2018-06-20 15:31:07 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource applicationConfig: [classpath:/application.yml]#remote [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 15:31:07 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource applicationConfig: [classpath:/application.yml] [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 15:31:07 [main] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 15:31:07 [main] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 15:31:07 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2018-06-20 15:31:07 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2018-06-20 15:31:07 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy48
+2018-06-20 15:31:07 [main] DEBUG o.h.v.i.xml.ValidationXmlParser - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2018-06-20 15:31:07 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via user class loader
+2018-06-20 15:31:07 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via TCCL
+2018-06-20 15:31:07 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2018-06-20 15:31:07 [main] DEBUG o.h.v.i.xml.ValidationXmlParser - No META-INF/validation.xml found. Using annotation based configuration only.
+2018-06-20 15:31:07 [main] INFO  c.u.j.r.DefaultLazyPropertyResolver - Property Resolver custom Bean not found with name 'encryptablePropertyResolver'. Initializing Default Property Resolver
+2018-06-20 15:31:07 [main] INFO  c.u.j.d.DefaultLazyPropertyDetector - Property Detector custom Bean not found with name 'encryptablePropertyDetector'. Initializing Default Property Detector
+2018-06-20 15:31:07 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2018-06-20 15:31:07 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.27
+2018-06-20 15:31:07 [localhost-startStop-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2018-06-20 15:31:08 [main] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 15:31:08 [main] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 15:31:08 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2018-06-20 15:31:08 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2018-06-20 15:31:08 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy48
+2018-06-20 15:31:08 [main] DEBUG o.h.v.i.xml.ValidationXmlParser - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2018-06-20 15:31:08 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via user class loader
+2018-06-20 15:31:08 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via TCCL
+2018-06-20 15:31:08 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2018-06-20 15:31:08 [main] DEBUG o.h.v.i.xml.ValidationXmlParser - No META-INF/validation.xml found. Using annotation based configuration only.
+2018-06-20 15:31:08 [main] DEBUG o.m.s.b.a.MybatisAutoConfiguration - No org.mybatis.spring.mapper.MapperFactoryBean found.
+2018-06-20 15:31:08 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.type' for aliases
+2018-06-20 15:31:08 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.model' for aliases
+2018-06-20 15:31:08 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.typehandler' for aliases
+2018-06-20 15:31:08 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.typehandler' for type handlers
+2018-06-20 15:31:08 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.type' for type handlers
+2018-06-20 15:31:08 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Property 'mapperLocations' was not specified or no matching resources found
+2018-06-20 15:31:08 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ContextRefreshedEvent
+2018-06-20 15:31:08 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ContextRefreshedEvent
+2018-06-20 15:31:08 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8077"]
+2018-06-20 15:31:08 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8077"]
+2018-06-20 15:31:08 [main] INFO  o.a.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2018-06-20 15:31:08 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: EmbeddedServletContainerInitializedEvent
+2018-06-20 15:31:08 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: EmbeddedServletContainerInitializedEvent
+2018-06-20 15:31:08 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationReadyEvent
+2018-06-20 15:31:08 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationReadyEvent
+2018-06-20 15:31:08 [main] INFO  s.p.server.ApiServerApplication - Started ApiServerApplication in 2.206 seconds (JVM running for 2.501)
+2018-06-20 15:31:08 [main] INFO  s.p.server.ApiServerApplication - Server Started
+2018-06-20 15:31:10 [http-nio-8077-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-06-20 15:31:10 [http-nio-8077-exec-1] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 15:31:10 [http-nio-8077-exec-1] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 15:31:10 [http-nio-8077-exec-2] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 15:31:10 [http-nio-8077-exec-2] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 15:33:13 [Thread-3] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ContextClosedEvent
+2018-06-20 15:33:13 [Thread-3] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ContextClosedEvent
+2018-06-20 15:33:14 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationEnvironmentPreparedEvent
+2018-06-20 15:33:14 [main] INFO  s.p.server.ApiServerApplication - Starting ApiServerApplication on JUNGDAHAEui-MacBook-Pro-2.local with PID 17624 (/Users/dhjung/code/myGithub/portfolio/build/classes/main started by dhjung in /Users/dhjung/code/myGithub/portfolio)
+2018-06-20 15:33:14 [main] DEBUG s.p.server.ApiServerApplication - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+2018-06-20 15:33:14 [main] INFO  s.p.server.ApiServerApplication - The following profiles are active: remote
+2018-06-20 15:33:14 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationPreparedEvent
+2018-06-20 15:33:14 [background-preinit] DEBUG org.jboss.logging - Logging Provider: org.jboss.logging.Slf4jLoggerProvider found via system property
+2018-06-20 15:33:14 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.6.Final
+2018-06-20 15:33:14 [background-preinit] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 15:33:14 [main] DEBUG o.m.s.b.a.MybatisAutoConfiguration - Searching for mappers annotated with @Mapper
+2018-06-20 15:33:14 [main] DEBUG o.m.s.b.a.MybatisAutoConfiguration - Using auto-configuration base package 'solunar.portfolio.server'
+2018-06-20 15:33:14 [main] WARN  o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[solunar.portfolio.server]' package. Please check your configuration.
+2018-06-20 15:33:15 [main] INFO  c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Post-processing PropertySource instances
+2018-06-20 15:33:15 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource servletConfigInitParams [org.springframework.core.env.PropertySource$StubPropertySource] to EncryptablePropertySourceWrapper
+2018-06-20 15:33:15 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource servletContextInitParams [org.springframework.core.env.PropertySource$StubPropertySource] to EncryptablePropertySourceWrapper
+2018-06-20 15:33:15 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource systemProperties [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 15:33:15 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource systemEnvironment [org.springframework.core.env.SystemEnvironmentPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 15:33:15 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource random [org.springframework.boot.context.config.RandomValuePropertySource] to EncryptablePropertySourceWrapper
+2018-06-20 15:33:15 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource applicationConfig: [classpath:/application.yml]#remote [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 15:33:15 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource applicationConfig: [classpath:/application.yml] [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 15:33:15 [main] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 15:33:15 [main] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 15:33:15 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2018-06-20 15:33:15 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2018-06-20 15:33:15 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy48
+2018-06-20 15:33:15 [main] DEBUG o.h.v.i.xml.ValidationXmlParser - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2018-06-20 15:33:15 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via user class loader
+2018-06-20 15:33:15 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via TCCL
+2018-06-20 15:33:15 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2018-06-20 15:33:15 [main] DEBUG o.h.v.i.xml.ValidationXmlParser - No META-INF/validation.xml found. Using annotation based configuration only.
+2018-06-20 15:33:15 [main] INFO  c.u.j.r.DefaultLazyPropertyResolver - Property Resolver custom Bean not found with name 'encryptablePropertyResolver'. Initializing Default Property Resolver
+2018-06-20 15:33:15 [main] INFO  c.u.j.d.DefaultLazyPropertyDetector - Property Detector custom Bean not found with name 'encryptablePropertyDetector'. Initializing Default Property Detector
+2018-06-20 15:33:15 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2018-06-20 15:33:15 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.27
+2018-06-20 15:33:15 [localhost-startStop-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2018-06-20 15:33:15 [main] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 15:33:15 [main] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 15:33:15 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2018-06-20 15:33:15 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2018-06-20 15:33:15 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy48
+2018-06-20 15:33:15 [main] DEBUG o.h.v.i.xml.ValidationXmlParser - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2018-06-20 15:33:15 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via user class loader
+2018-06-20 15:33:15 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via TCCL
+2018-06-20 15:33:15 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2018-06-20 15:33:15 [main] DEBUG o.h.v.i.xml.ValidationXmlParser - No META-INF/validation.xml found. Using annotation based configuration only.
+2018-06-20 15:33:16 [main] DEBUG o.m.s.b.a.MybatisAutoConfiguration - No org.mybatis.spring.mapper.MapperFactoryBean found.
+2018-06-20 15:33:16 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.type' for aliases
+2018-06-20 15:33:16 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.model' for aliases
+2018-06-20 15:33:16 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.typehandler' for aliases
+2018-06-20 15:33:16 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.typehandler' for type handlers
+2018-06-20 15:33:16 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.type' for type handlers
+2018-06-20 15:33:16 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Property 'mapperLocations' was not specified or no matching resources found
+2018-06-20 15:33:16 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ContextRefreshedEvent
+2018-06-20 15:33:16 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ContextRefreshedEvent
+2018-06-20 15:33:16 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8077"]
+2018-06-20 15:33:16 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8077"]
+2018-06-20 15:33:16 [main] INFO  o.a.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2018-06-20 15:33:16 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: EmbeddedServletContainerInitializedEvent
+2018-06-20 15:33:16 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: EmbeddedServletContainerInitializedEvent
+2018-06-20 15:33:16 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationReadyEvent
+2018-06-20 15:33:16 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationReadyEvent
+2018-06-20 15:33:16 [main] INFO  s.p.server.ApiServerApplication - Started ApiServerApplication in 2.133 seconds (JVM running for 2.431)
+2018-06-20 15:33:16 [main] INFO  s.p.server.ApiServerApplication - Server Started
+2018-06-20 15:33:19 [http-nio-8077-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-06-20 15:33:20 [http-nio-8077-exec-1] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 15:33:20 [http-nio-8077-exec-1] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 15:53:34 [Thread-3] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ContextClosedEvent
+2018-06-20 15:53:34 [Thread-3] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ContextClosedEvent
+2018-06-20 15:53:36 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationEnvironmentPreparedEvent
+2018-06-20 15:53:36 [main] INFO  s.p.server.ApiServerApplication - Starting ApiServerApplication on JUNGDAHAEui-MacBook-Pro-2.local with PID 19031 (/Users/dhjung/code/myGithub/portfolio/build/classes/main started by dhjung in /Users/dhjung/code/myGithub/portfolio)
+2018-06-20 15:53:36 [main] DEBUG s.p.server.ApiServerApplication - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+2018-06-20 15:53:36 [main] INFO  s.p.server.ApiServerApplication - The following profiles are active: remote
+2018-06-20 15:53:36 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationPreparedEvent
+2018-06-20 15:53:36 [background-preinit] DEBUG org.jboss.logging - Logging Provider: org.jboss.logging.Slf4jLoggerProvider found via system property
+2018-06-20 15:53:36 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.6.Final
+2018-06-20 15:53:36 [background-preinit] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 15:53:36 [main] DEBUG o.m.s.b.a.MybatisAutoConfiguration - Searching for mappers annotated with @Mapper
+2018-06-20 15:53:36 [main] DEBUG o.m.s.b.a.MybatisAutoConfiguration - Using auto-configuration base package 'solunar.portfolio.server'
+2018-06-20 15:53:36 [main] WARN  o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[solunar.portfolio.server]' package. Please check your configuration.
+2018-06-20 15:53:36 [main] INFO  c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Post-processing PropertySource instances
+2018-06-20 15:53:36 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource servletConfigInitParams [org.springframework.core.env.PropertySource$StubPropertySource] to EncryptablePropertySourceWrapper
+2018-06-20 15:53:36 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource servletContextInitParams [org.springframework.core.env.PropertySource$StubPropertySource] to EncryptablePropertySourceWrapper
+2018-06-20 15:53:36 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource systemProperties [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 15:53:36 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource systemEnvironment [org.springframework.core.env.SystemEnvironmentPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 15:53:36 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource random [org.springframework.boot.context.config.RandomValuePropertySource] to EncryptablePropertySourceWrapper
+2018-06-20 15:53:36 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource applicationConfig: [classpath:/application.yml]#remote [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 15:53:36 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource applicationConfig: [classpath:/application.yml] [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 15:53:37 [main] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 15:53:37 [main] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 15:53:37 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2018-06-20 15:53:37 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2018-06-20 15:53:37 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy48
+2018-06-20 15:53:37 [main] DEBUG o.h.v.i.xml.ValidationXmlParser - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2018-06-20 15:53:37 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via user class loader
+2018-06-20 15:53:37 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via TCCL
+2018-06-20 15:53:37 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2018-06-20 15:53:37 [main] DEBUG o.h.v.i.xml.ValidationXmlParser - No META-INF/validation.xml found. Using annotation based configuration only.
+2018-06-20 15:53:37 [main] INFO  c.u.j.r.DefaultLazyPropertyResolver - Property Resolver custom Bean not found with name 'encryptablePropertyResolver'. Initializing Default Property Resolver
+2018-06-20 15:53:37 [main] INFO  c.u.j.d.DefaultLazyPropertyDetector - Property Detector custom Bean not found with name 'encryptablePropertyDetector'. Initializing Default Property Detector
+2018-06-20 15:53:37 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2018-06-20 15:53:37 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.27
+2018-06-20 15:53:37 [localhost-startStop-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2018-06-20 15:53:37 [main] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 15:53:37 [main] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 15:53:37 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2018-06-20 15:53:37 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2018-06-20 15:53:37 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy48
+2018-06-20 15:53:37 [main] DEBUG o.h.v.i.xml.ValidationXmlParser - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2018-06-20 15:53:37 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via user class loader
+2018-06-20 15:53:37 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via TCCL
+2018-06-20 15:53:37 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2018-06-20 15:53:37 [main] DEBUG o.h.v.i.xml.ValidationXmlParser - No META-INF/validation.xml found. Using annotation based configuration only.
+2018-06-20 15:53:37 [main] DEBUG o.m.s.b.a.MybatisAutoConfiguration - No org.mybatis.spring.mapper.MapperFactoryBean found.
+2018-06-20 15:53:37 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.type' for aliases
+2018-06-20 15:53:37 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.model' for aliases
+2018-06-20 15:53:37 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.typehandler' for aliases
+2018-06-20 15:53:37 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.typehandler' for type handlers
+2018-06-20 15:53:37 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.type' for type handlers
+2018-06-20 15:53:37 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Property 'mapperLocations' was not specified or no matching resources found
+2018-06-20 15:53:38 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ContextRefreshedEvent
+2018-06-20 15:53:38 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ContextRefreshedEvent
+2018-06-20 15:53:38 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8077"]
+2018-06-20 15:53:38 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8077"]
+2018-06-20 15:53:38 [main] INFO  o.a.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2018-06-20 15:53:38 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: EmbeddedServletContainerInitializedEvent
+2018-06-20 15:53:38 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: EmbeddedServletContainerInitializedEvent
+2018-06-20 15:53:38 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationReadyEvent
+2018-06-20 15:53:38 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationReadyEvent
+2018-06-20 15:53:38 [main] INFO  s.p.server.ApiServerApplication - Started ApiServerApplication in 2.17 seconds (JVM running for 2.47)
+2018-06-20 15:53:38 [main] INFO  s.p.server.ApiServerApplication - Server Started
+2018-06-20 15:53:40 [http-nio-8077-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-06-20 15:53:40 [http-nio-8077-exec-1] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 15:53:40 [http-nio-8077-exec-1] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 15:53:40 [http-nio-8077-exec-2] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 15:53:40 [http-nio-8077-exec-2] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 15:55:43 [Thread-3] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ContextClosedEvent
+2018-06-20 15:55:43 [Thread-3] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ContextClosedEvent
+2018-06-20 15:55:44 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationEnvironmentPreparedEvent
+2018-06-20 15:55:44 [main] INFO  s.p.server.ApiServerApplication - Starting ApiServerApplication on JUNGDAHAEui-MacBook-Pro-2.local with PID 19178 (/Users/dhjung/code/myGithub/portfolio/build/classes/main started by dhjung in /Users/dhjung/code/myGithub/portfolio)
+2018-06-20 15:55:44 [main] DEBUG s.p.server.ApiServerApplication - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+2018-06-20 15:55:44 [main] INFO  s.p.server.ApiServerApplication - The following profiles are active: remote
+2018-06-20 15:55:45 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationPreparedEvent
+2018-06-20 15:55:45 [background-preinit] DEBUG org.jboss.logging - Logging Provider: org.jboss.logging.Slf4jLoggerProvider found via system property
+2018-06-20 15:55:45 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.6.Final
+2018-06-20 15:55:45 [background-preinit] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 15:55:45 [main] DEBUG o.m.s.b.a.MybatisAutoConfiguration - Searching for mappers annotated with @Mapper
+2018-06-20 15:55:45 [main] DEBUG o.m.s.b.a.MybatisAutoConfiguration - Using auto-configuration base package 'solunar.portfolio.server'
+2018-06-20 15:55:45 [main] WARN  o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[solunar.portfolio.server]' package. Please check your configuration.
+2018-06-20 15:55:45 [main] INFO  c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Post-processing PropertySource instances
+2018-06-20 15:55:45 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource servletConfigInitParams [org.springframework.core.env.PropertySource$StubPropertySource] to EncryptablePropertySourceWrapper
+2018-06-20 15:55:45 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource servletContextInitParams [org.springframework.core.env.PropertySource$StubPropertySource] to EncryptablePropertySourceWrapper
+2018-06-20 15:55:45 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource systemProperties [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 15:55:45 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource systemEnvironment [org.springframework.core.env.SystemEnvironmentPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 15:55:45 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource random [org.springframework.boot.context.config.RandomValuePropertySource] to EncryptablePropertySourceWrapper
+2018-06-20 15:55:45 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource applicationConfig: [classpath:/application.yml]#remote [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 15:55:45 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource applicationConfig: [classpath:/application.yml] [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 15:55:45 [main] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 15:55:45 [main] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 15:55:45 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2018-06-20 15:55:45 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2018-06-20 15:55:45 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy48
+2018-06-20 15:55:45 [main] DEBUG o.h.v.i.xml.ValidationXmlParser - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2018-06-20 15:55:45 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via user class loader
+2018-06-20 15:55:45 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via TCCL
+2018-06-20 15:55:45 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2018-06-20 15:55:45 [main] DEBUG o.h.v.i.xml.ValidationXmlParser - No META-INF/validation.xml found. Using annotation based configuration only.
+2018-06-20 15:55:45 [main] INFO  c.u.j.r.DefaultLazyPropertyResolver - Property Resolver custom Bean not found with name 'encryptablePropertyResolver'. Initializing Default Property Resolver
+2018-06-20 15:55:45 [main] INFO  c.u.j.d.DefaultLazyPropertyDetector - Property Detector custom Bean not found with name 'encryptablePropertyDetector'. Initializing Default Property Detector
+2018-06-20 15:55:45 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2018-06-20 15:55:45 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.27
+2018-06-20 15:55:45 [localhost-startStop-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2018-06-20 15:55:46 [main] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 15:55:46 [main] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 15:55:46 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2018-06-20 15:55:46 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2018-06-20 15:55:46 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy48
+2018-06-20 15:55:46 [main] DEBUG o.h.v.i.xml.ValidationXmlParser - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2018-06-20 15:55:46 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via user class loader
+2018-06-20 15:55:46 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via TCCL
+2018-06-20 15:55:46 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2018-06-20 15:55:46 [main] DEBUG o.h.v.i.xml.ValidationXmlParser - No META-INF/validation.xml found. Using annotation based configuration only.
+2018-06-20 15:55:46 [main] DEBUG o.m.s.b.a.MybatisAutoConfiguration - No org.mybatis.spring.mapper.MapperFactoryBean found.
+2018-06-20 15:55:46 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.type' for aliases
+2018-06-20 15:55:46 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.model' for aliases
+2018-06-20 15:55:46 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.typehandler' for aliases
+2018-06-20 15:55:46 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.typehandler' for type handlers
+2018-06-20 15:55:46 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.type' for type handlers
+2018-06-20 15:55:46 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Property 'mapperLocations' was not specified or no matching resources found
+2018-06-20 15:55:46 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ContextRefreshedEvent
+2018-06-20 15:55:46 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ContextRefreshedEvent
+2018-06-20 15:55:46 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8077"]
+2018-06-20 15:55:46 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8077"]
+2018-06-20 15:55:46 [main] INFO  o.a.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2018-06-20 15:55:46 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: EmbeddedServletContainerInitializedEvent
+2018-06-20 15:55:46 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: EmbeddedServletContainerInitializedEvent
+2018-06-20 15:55:46 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationReadyEvent
+2018-06-20 15:55:46 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationReadyEvent
+2018-06-20 15:55:46 [main] INFO  s.p.server.ApiServerApplication - Started ApiServerApplication in 2.167 seconds (JVM running for 2.461)
+2018-06-20 15:55:46 [main] INFO  s.p.server.ApiServerApplication - Server Started
+2018-06-20 15:55:47 [http-nio-8077-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-06-20 15:55:47 [http-nio-8077-exec-1] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 15:55:47 [http-nio-8077-exec-1] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 15:55:47 [http-nio-8077-exec-2] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 15:55:47 [http-nio-8077-exec-2] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 15:55:48 [http-nio-8077-exec-3] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 15:55:48 [http-nio-8077-exec-3] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 15:55:49 [http-nio-8077-exec-4] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 15:55:49 [http-nio-8077-exec-4] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 15:55:49 [http-nio-8077-exec-5] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 15:55:49 [http-nio-8077-exec-5] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 15:55:50 [http-nio-8077-exec-6] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 15:55:50 [http-nio-8077-exec-6] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 15:57:29 [Thread-3] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ContextClosedEvent
+2018-06-20 15:57:29 [Thread-3] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ContextClosedEvent
+2018-06-20 15:57:30 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationEnvironmentPreparedEvent
+2018-06-20 15:57:31 [main] INFO  s.p.server.ApiServerApplication - Starting ApiServerApplication on JUNGDAHAEui-MacBook-Pro-2.local with PID 19300 (/Users/dhjung/code/myGithub/portfolio/build/classes/main started by dhjung in /Users/dhjung/code/myGithub/portfolio)
+2018-06-20 15:57:31 [main] DEBUG s.p.server.ApiServerApplication - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+2018-06-20 15:57:31 [main] INFO  s.p.server.ApiServerApplication - The following profiles are active: remote
+2018-06-20 15:57:31 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationPreparedEvent
+2018-06-20 15:57:31 [background-preinit] DEBUG org.jboss.logging - Logging Provider: org.jboss.logging.Slf4jLoggerProvider found via system property
+2018-06-20 15:57:31 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.6.Final
+2018-06-20 15:57:31 [background-preinit] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 15:57:31 [main] DEBUG o.m.s.b.a.MybatisAutoConfiguration - Searching for mappers annotated with @Mapper
+2018-06-20 15:57:31 [main] DEBUG o.m.s.b.a.MybatisAutoConfiguration - Using auto-configuration base package 'solunar.portfolio.server'
+2018-06-20 15:57:31 [main] WARN  o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[solunar.portfolio.server]' package. Please check your configuration.
+2018-06-20 15:57:31 [main] INFO  c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Post-processing PropertySource instances
+2018-06-20 15:57:31 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource servletConfigInitParams [org.springframework.core.env.PropertySource$StubPropertySource] to EncryptablePropertySourceWrapper
+2018-06-20 15:57:31 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource servletContextInitParams [org.springframework.core.env.PropertySource$StubPropertySource] to EncryptablePropertySourceWrapper
+2018-06-20 15:57:31 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource systemProperties [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 15:57:31 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource systemEnvironment [org.springframework.core.env.SystemEnvironmentPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 15:57:31 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource random [org.springframework.boot.context.config.RandomValuePropertySource] to EncryptablePropertySourceWrapper
+2018-06-20 15:57:31 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource applicationConfig: [classpath:/application.yml]#remote [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 15:57:31 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource applicationConfig: [classpath:/application.yml] [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 15:57:31 [main] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 15:57:31 [main] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 15:57:31 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2018-06-20 15:57:31 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2018-06-20 15:57:31 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy48
+2018-06-20 15:57:31 [main] DEBUG o.h.v.i.xml.ValidationXmlParser - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2018-06-20 15:57:31 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via user class loader
+2018-06-20 15:57:31 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via TCCL
+2018-06-20 15:57:31 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2018-06-20 15:57:31 [main] DEBUG o.h.v.i.xml.ValidationXmlParser - No META-INF/validation.xml found. Using annotation based configuration only.
+2018-06-20 15:57:31 [main] INFO  c.u.j.r.DefaultLazyPropertyResolver - Property Resolver custom Bean not found with name 'encryptablePropertyResolver'. Initializing Default Property Resolver
+2018-06-20 15:57:31 [main] INFO  c.u.j.d.DefaultLazyPropertyDetector - Property Detector custom Bean not found with name 'encryptablePropertyDetector'. Initializing Default Property Detector
+2018-06-20 15:57:31 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2018-06-20 15:57:31 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.27
+2018-06-20 15:57:32 [localhost-startStop-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2018-06-20 15:57:32 [main] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 15:57:32 [main] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 15:57:32 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2018-06-20 15:57:32 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2018-06-20 15:57:32 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy48
+2018-06-20 15:57:32 [main] DEBUG o.h.v.i.xml.ValidationXmlParser - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2018-06-20 15:57:32 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via user class loader
+2018-06-20 15:57:32 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via TCCL
+2018-06-20 15:57:32 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2018-06-20 15:57:32 [main] DEBUG o.h.v.i.xml.ValidationXmlParser - No META-INF/validation.xml found. Using annotation based configuration only.
+2018-06-20 15:57:32 [main] DEBUG o.m.s.b.a.MybatisAutoConfiguration - No org.mybatis.spring.mapper.MapperFactoryBean found.
+2018-06-20 15:57:32 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.type' for aliases
+2018-06-20 15:57:32 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.model' for aliases
+2018-06-20 15:57:32 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.typehandler' for aliases
+2018-06-20 15:57:32 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.typehandler' for type handlers
+2018-06-20 15:57:32 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.type' for type handlers
+2018-06-20 15:57:32 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Property 'mapperLocations' was not specified or no matching resources found
+2018-06-20 15:57:32 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ContextRefreshedEvent
+2018-06-20 15:57:32 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ContextRefreshedEvent
+2018-06-20 15:57:32 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8077"]
+2018-06-20 15:57:32 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8077"]
+2018-06-20 15:57:32 [main] INFO  o.a.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2018-06-20 15:57:32 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: EmbeddedServletContainerInitializedEvent
+2018-06-20 15:57:32 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: EmbeddedServletContainerInitializedEvent
+2018-06-20 15:57:32 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationReadyEvent
+2018-06-20 15:57:32 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationReadyEvent
+2018-06-20 15:57:32 [main] INFO  s.p.server.ApiServerApplication - Started ApiServerApplication in 2.155 seconds (JVM running for 2.491)
+2018-06-20 15:57:32 [main] INFO  s.p.server.ApiServerApplication - Server Started
+2018-06-20 15:57:34 [http-nio-8077-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-06-20 15:57:34 [http-nio-8077-exec-1] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 15:57:34 [http-nio-8077-exec-1] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 15:57:34 [http-nio-8077-exec-2] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 15:57:34 [http-nio-8077-exec-2] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 15:57:35 [http-nio-8077-exec-3] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 15:57:35 [http-nio-8077-exec-3] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 16:14:00 [Thread-3] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ContextClosedEvent
+2018-06-20 16:14:00 [Thread-3] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ContextClosedEvent
+2018-06-20 16:14:01 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationEnvironmentPreparedEvent
+2018-06-20 16:14:01 [main] INFO  s.p.server.ApiServerApplication - Starting ApiServerApplication on JUNGDAHAEui-MacBook-Pro-2.local with PID 20523 (/Users/dhjung/code/myGithub/portfolio/build/classes/main started by dhjung in /Users/dhjung/code/myGithub/portfolio)
+2018-06-20 16:14:01 [main] DEBUG s.p.server.ApiServerApplication - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+2018-06-20 16:14:01 [main] INFO  s.p.server.ApiServerApplication - The following profiles are active: remote
+2018-06-20 16:14:02 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationPreparedEvent
+2018-06-20 16:14:02 [background-preinit] DEBUG org.jboss.logging - Logging Provider: org.jboss.logging.Slf4jLoggerProvider found via system property
+2018-06-20 16:14:02 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.6.Final
+2018-06-20 16:14:02 [background-preinit] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 16:14:02 [main] DEBUG o.m.s.b.a.MybatisAutoConfiguration - Searching for mappers annotated with @Mapper
+2018-06-20 16:14:02 [main] DEBUG o.m.s.b.a.MybatisAutoConfiguration - Using auto-configuration base package 'solunar.portfolio.server'
+2018-06-20 16:14:02 [main] WARN  o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[solunar.portfolio.server]' package. Please check your configuration.
+2018-06-20 16:14:02 [main] INFO  c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Post-processing PropertySource instances
+2018-06-20 16:14:02 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource servletConfigInitParams [org.springframework.core.env.PropertySource$StubPropertySource] to EncryptablePropertySourceWrapper
+2018-06-20 16:14:02 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource servletContextInitParams [org.springframework.core.env.PropertySource$StubPropertySource] to EncryptablePropertySourceWrapper
+2018-06-20 16:14:02 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource systemProperties [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 16:14:02 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource systemEnvironment [org.springframework.core.env.SystemEnvironmentPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 16:14:02 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource random [org.springframework.boot.context.config.RandomValuePropertySource] to EncryptablePropertySourceWrapper
+2018-06-20 16:14:02 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource applicationConfig: [classpath:/application.yml]#remote [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 16:14:02 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource applicationConfig: [classpath:/application.yml] [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 16:14:02 [main] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 16:14:02 [main] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 16:14:02 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2018-06-20 16:14:02 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2018-06-20 16:14:02 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy48
+2018-06-20 16:14:02 [main] DEBUG o.h.v.i.xml.ValidationXmlParser - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2018-06-20 16:14:02 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via user class loader
+2018-06-20 16:14:02 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via TCCL
+2018-06-20 16:14:02 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2018-06-20 16:14:02 [main] DEBUG o.h.v.i.xml.ValidationXmlParser - No META-INF/validation.xml found. Using annotation based configuration only.
+2018-06-20 16:14:02 [main] INFO  c.u.j.r.DefaultLazyPropertyResolver - Property Resolver custom Bean not found with name 'encryptablePropertyResolver'. Initializing Default Property Resolver
+2018-06-20 16:14:02 [main] INFO  c.u.j.d.DefaultLazyPropertyDetector - Property Detector custom Bean not found with name 'encryptablePropertyDetector'. Initializing Default Property Detector
+2018-06-20 16:14:02 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2018-06-20 16:14:02 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.27
+2018-06-20 16:14:03 [localhost-startStop-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2018-06-20 16:14:03 [main] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 16:14:03 [main] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 16:14:03 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2018-06-20 16:14:03 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2018-06-20 16:14:03 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy48
+2018-06-20 16:14:03 [main] DEBUG o.h.v.i.xml.ValidationXmlParser - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2018-06-20 16:14:03 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via user class loader
+2018-06-20 16:14:03 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via TCCL
+2018-06-20 16:14:03 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2018-06-20 16:14:03 [main] DEBUG o.h.v.i.xml.ValidationXmlParser - No META-INF/validation.xml found. Using annotation based configuration only.
+2018-06-20 16:14:03 [main] DEBUG o.m.s.b.a.MybatisAutoConfiguration - No org.mybatis.spring.mapper.MapperFactoryBean found.
+2018-06-20 16:14:03 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.type' for aliases
+2018-06-20 16:14:03 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.model' for aliases
+2018-06-20 16:14:03 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.typehandler' for aliases
+2018-06-20 16:14:03 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.typehandler' for type handlers
+2018-06-20 16:14:03 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.type' for type handlers
+2018-06-20 16:14:03 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Property 'mapperLocations' was not specified or no matching resources found
+2018-06-20 16:14:03 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ContextRefreshedEvent
+2018-06-20 16:14:03 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ContextRefreshedEvent
+2018-06-20 16:14:03 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8077"]
+2018-06-20 16:14:03 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8077"]
+2018-06-20 16:14:03 [main] INFO  o.a.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2018-06-20 16:14:03 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: EmbeddedServletContainerInitializedEvent
+2018-06-20 16:14:03 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: EmbeddedServletContainerInitializedEvent
+2018-06-20 16:14:03 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationReadyEvent
+2018-06-20 16:14:03 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationReadyEvent
+2018-06-20 16:14:03 [main] INFO  s.p.server.ApiServerApplication - Started ApiServerApplication in 2.165 seconds (JVM running for 2.464)
+2018-06-20 16:14:03 [main] INFO  s.p.server.ApiServerApplication - Server Started
+2018-06-20 16:14:07 [http-nio-8077-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-06-20 16:14:07 [http-nio-8077-exec-1] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 16:14:07 [http-nio-8077-exec-1] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 16:14:07 [http-nio-8077-exec-2] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 16:14:07 [http-nio-8077-exec-2] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 16:14:07 [http-nio-8077-exec-3] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 16:14:07 [http-nio-8077-exec-3] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 16:17:27 [Thread-3] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ContextClosedEvent
+2018-06-20 16:17:27 [Thread-3] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ContextClosedEvent
+2018-06-20 16:17:28 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationEnvironmentPreparedEvent
+2018-06-20 16:17:28 [main] INFO  s.p.server.ApiServerApplication - Starting ApiServerApplication on JUNGDAHAEui-MacBook-Pro-2.local with PID 20787 (/Users/dhjung/code/myGithub/portfolio/build/classes/main started by dhjung in /Users/dhjung/code/myGithub/portfolio)
+2018-06-20 16:17:28 [main] DEBUG s.p.server.ApiServerApplication - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+2018-06-20 16:17:28 [main] INFO  s.p.server.ApiServerApplication - The following profiles are active: remote
+2018-06-20 16:17:28 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationPreparedEvent
+2018-06-20 16:17:28 [background-preinit] DEBUG org.jboss.logging - Logging Provider: org.jboss.logging.Slf4jLoggerProvider found via system property
+2018-06-20 16:17:28 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.6.Final
+2018-06-20 16:17:28 [background-preinit] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 16:17:28 [main] DEBUG o.m.s.b.a.MybatisAutoConfiguration - Searching for mappers annotated with @Mapper
+2018-06-20 16:17:28 [main] DEBUG o.m.s.b.a.MybatisAutoConfiguration - Using auto-configuration base package 'solunar.portfolio.server'
+2018-06-20 16:17:28 [main] WARN  o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[solunar.portfolio.server]' package. Please check your configuration.
+2018-06-20 16:17:29 [main] INFO  c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Post-processing PropertySource instances
+2018-06-20 16:17:29 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource servletConfigInitParams [org.springframework.core.env.PropertySource$StubPropertySource] to EncryptablePropertySourceWrapper
+2018-06-20 16:17:29 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource servletContextInitParams [org.springframework.core.env.PropertySource$StubPropertySource] to EncryptablePropertySourceWrapper
+2018-06-20 16:17:29 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource systemProperties [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 16:17:29 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource systemEnvironment [org.springframework.core.env.SystemEnvironmentPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 16:17:29 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource random [org.springframework.boot.context.config.RandomValuePropertySource] to EncryptablePropertySourceWrapper
+2018-06-20 16:17:29 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource applicationConfig: [classpath:/application.yml]#remote [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 16:17:29 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource applicationConfig: [classpath:/application.yml] [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 16:17:29 [main] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 16:17:29 [main] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 16:17:29 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2018-06-20 16:17:29 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2018-06-20 16:17:29 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy48
+2018-06-20 16:17:29 [main] DEBUG o.h.v.i.xml.ValidationXmlParser - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2018-06-20 16:17:29 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via user class loader
+2018-06-20 16:17:29 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via TCCL
+2018-06-20 16:17:29 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2018-06-20 16:17:29 [main] DEBUG o.h.v.i.xml.ValidationXmlParser - No META-INF/validation.xml found. Using annotation based configuration only.
+2018-06-20 16:17:29 [main] INFO  c.u.j.r.DefaultLazyPropertyResolver - Property Resolver custom Bean not found with name 'encryptablePropertyResolver'. Initializing Default Property Resolver
+2018-06-20 16:17:29 [main] INFO  c.u.j.d.DefaultLazyPropertyDetector - Property Detector custom Bean not found with name 'encryptablePropertyDetector'. Initializing Default Property Detector
+2018-06-20 16:17:29 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2018-06-20 16:17:29 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.27
+2018-06-20 16:17:29 [localhost-startStop-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2018-06-20 16:17:29 [main] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 16:17:29 [main] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 16:17:29 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2018-06-20 16:17:29 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2018-06-20 16:17:29 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy48
+2018-06-20 16:17:29 [main] DEBUG o.h.v.i.xml.ValidationXmlParser - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2018-06-20 16:17:29 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via user class loader
+2018-06-20 16:17:29 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via TCCL
+2018-06-20 16:17:29 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2018-06-20 16:17:29 [main] DEBUG o.h.v.i.xml.ValidationXmlParser - No META-INF/validation.xml found. Using annotation based configuration only.
+2018-06-20 16:17:30 [main] DEBUG o.m.s.b.a.MybatisAutoConfiguration - No org.mybatis.spring.mapper.MapperFactoryBean found.
+2018-06-20 16:17:30 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.type' for aliases
+2018-06-20 16:17:30 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.model' for aliases
+2018-06-20 16:17:30 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.typehandler' for aliases
+2018-06-20 16:17:30 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.typehandler' for type handlers
+2018-06-20 16:17:30 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.type' for type handlers
+2018-06-20 16:17:30 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Property 'mapperLocations' was not specified or no matching resources found
+2018-06-20 16:17:30 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ContextRefreshedEvent
+2018-06-20 16:17:30 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ContextRefreshedEvent
+2018-06-20 16:17:30 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8077"]
+2018-06-20 16:17:30 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8077"]
+2018-06-20 16:17:30 [main] INFO  o.a.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2018-06-20 16:17:30 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: EmbeddedServletContainerInitializedEvent
+2018-06-20 16:17:30 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: EmbeddedServletContainerInitializedEvent
+2018-06-20 16:17:30 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationReadyEvent
+2018-06-20 16:17:30 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationReadyEvent
+2018-06-20 16:17:30 [main] INFO  s.p.server.ApiServerApplication - Started ApiServerApplication in 2.18 seconds (JVM running for 2.475)
+2018-06-20 16:17:30 [main] INFO  s.p.server.ApiServerApplication - Server Started
+2018-06-20 16:17:32 [http-nio-8077-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-06-20 16:17:32 [http-nio-8077-exec-1] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 16:17:32 [http-nio-8077-exec-1] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 16:17:32 [http-nio-8077-exec-3] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 16:17:32 [http-nio-8077-exec-3] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 16:17:32 [http-nio-8077-exec-2] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 16:17:32 [http-nio-8077-exec-2] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 16:17:32 [http-nio-8077-exec-4] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 16:17:32 [http-nio-8077-exec-4] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 16:17:34 [http-nio-8077-exec-5] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 16:17:34 [http-nio-8077-exec-5] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 16:17:34 [http-nio-8077-exec-6] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 16:17:34 [http-nio-8077-exec-6] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 16:17:35 [http-nio-8077-exec-7] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 16:17:35 [http-nio-8077-exec-7] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 16:18:01 [Thread-3] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ContextClosedEvent
+2018-06-20 16:18:01 [Thread-3] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ContextClosedEvent
+2018-06-20 16:18:02 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationEnvironmentPreparedEvent
+2018-06-20 16:18:02 [main] INFO  s.p.server.ApiServerApplication - Starting ApiServerApplication on JUNGDAHAEui-MacBook-Pro-2.local with PID 20829 (/Users/dhjung/code/myGithub/portfolio/build/classes/main started by dhjung in /Users/dhjung/code/myGithub/portfolio)
+2018-06-20 16:18:02 [main] DEBUG s.p.server.ApiServerApplication - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+2018-06-20 16:18:02 [main] INFO  s.p.server.ApiServerApplication - The following profiles are active: remote
+2018-06-20 16:18:02 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationPreparedEvent
+2018-06-20 16:18:02 [background-preinit] DEBUG org.jboss.logging - Logging Provider: org.jboss.logging.Slf4jLoggerProvider found via system property
+2018-06-20 16:18:02 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.6.Final
+2018-06-20 16:18:02 [background-preinit] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 16:18:02 [main] DEBUG o.m.s.b.a.MybatisAutoConfiguration - Searching for mappers annotated with @Mapper
+2018-06-20 16:18:02 [main] DEBUG o.m.s.b.a.MybatisAutoConfiguration - Using auto-configuration base package 'solunar.portfolio.server'
+2018-06-20 16:18:02 [main] WARN  o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[solunar.portfolio.server]' package. Please check your configuration.
+2018-06-20 16:18:03 [main] INFO  c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Post-processing PropertySource instances
+2018-06-20 16:18:03 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource servletConfigInitParams [org.springframework.core.env.PropertySource$StubPropertySource] to EncryptablePropertySourceWrapper
+2018-06-20 16:18:03 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource servletContextInitParams [org.springframework.core.env.PropertySource$StubPropertySource] to EncryptablePropertySourceWrapper
+2018-06-20 16:18:03 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource systemProperties [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 16:18:03 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource systemEnvironment [org.springframework.core.env.SystemEnvironmentPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 16:18:03 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource random [org.springframework.boot.context.config.RandomValuePropertySource] to EncryptablePropertySourceWrapper
+2018-06-20 16:18:03 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource applicationConfig: [classpath:/application.yml]#remote [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 16:18:03 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource applicationConfig: [classpath:/application.yml] [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 16:18:03 [main] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 16:18:03 [main] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 16:18:03 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2018-06-20 16:18:03 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2018-06-20 16:18:03 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy48
+2018-06-20 16:18:03 [main] DEBUG o.h.v.i.xml.ValidationXmlParser - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2018-06-20 16:18:03 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via user class loader
+2018-06-20 16:18:03 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via TCCL
+2018-06-20 16:18:03 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2018-06-20 16:18:03 [main] DEBUG o.h.v.i.xml.ValidationXmlParser - No META-INF/validation.xml found. Using annotation based configuration only.
+2018-06-20 16:18:03 [main] INFO  c.u.j.r.DefaultLazyPropertyResolver - Property Resolver custom Bean not found with name 'encryptablePropertyResolver'. Initializing Default Property Resolver
+2018-06-20 16:18:03 [main] INFO  c.u.j.d.DefaultLazyPropertyDetector - Property Detector custom Bean not found with name 'encryptablePropertyDetector'. Initializing Default Property Detector
+2018-06-20 16:18:03 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2018-06-20 16:18:03 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.27
+2018-06-20 16:18:03 [localhost-startStop-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2018-06-20 16:18:03 [main] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 16:18:03 [main] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 16:18:03 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2018-06-20 16:18:03 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2018-06-20 16:18:03 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy48
+2018-06-20 16:18:03 [main] DEBUG o.h.v.i.xml.ValidationXmlParser - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2018-06-20 16:18:03 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via user class loader
+2018-06-20 16:18:03 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via TCCL
+2018-06-20 16:18:03 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2018-06-20 16:18:03 [main] DEBUG o.h.v.i.xml.ValidationXmlParser - No META-INF/validation.xml found. Using annotation based configuration only.
+2018-06-20 16:18:04 [main] DEBUG o.m.s.b.a.MybatisAutoConfiguration - No org.mybatis.spring.mapper.MapperFactoryBean found.
+2018-06-20 16:18:04 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.type' for aliases
+2018-06-20 16:18:04 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.model' for aliases
+2018-06-20 16:18:04 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.typehandler' for aliases
+2018-06-20 16:18:04 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.typehandler' for type handlers
+2018-06-20 16:18:04 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.type' for type handlers
+2018-06-20 16:18:04 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Property 'mapperLocations' was not specified or no matching resources found
+2018-06-20 16:18:04 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ContextRefreshedEvent
+2018-06-20 16:18:04 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ContextRefreshedEvent
+2018-06-20 16:18:04 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8077"]
+2018-06-20 16:18:04 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8077"]
+2018-06-20 16:18:04 [main] INFO  o.a.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2018-06-20 16:18:04 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: EmbeddedServletContainerInitializedEvent
+2018-06-20 16:18:04 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: EmbeddedServletContainerInitializedEvent
+2018-06-20 16:18:04 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationReadyEvent
+2018-06-20 16:18:04 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationReadyEvent
+2018-06-20 16:18:04 [main] INFO  s.p.server.ApiServerApplication - Started ApiServerApplication in 2.293 seconds (JVM running for 2.588)
+2018-06-20 16:18:04 [main] INFO  s.p.server.ApiServerApplication - Server Started
+2018-06-20 16:18:05 [http-nio-8077-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-06-20 16:18:05 [http-nio-8077-exec-1] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 16:18:05 [http-nio-8077-exec-1] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 16:18:05 [http-nio-8077-exec-3] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 16:18:05 [http-nio-8077-exec-3] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 16:18:05 [http-nio-8077-exec-2] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 16:18:05 [http-nio-8077-exec-2] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 16:18:05 [http-nio-8077-exec-4] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 16:18:05 [http-nio-8077-exec-4] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 16:18:07 [http-nio-8077-exec-5] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 16:18:07 [http-nio-8077-exec-5] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 16:18:07 [http-nio-8077-exec-6] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 16:18:07 [http-nio-8077-exec-6] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 16:18:07 [http-nio-8077-exec-7] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 16:18:07 [http-nio-8077-exec-7] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 16:20:52 [Thread-3] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ContextClosedEvent
+2018-06-20 16:20:52 [Thread-3] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ContextClosedEvent
+2018-06-20 16:20:54 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationEnvironmentPreparedEvent
+2018-06-20 16:20:54 [main] INFO  s.p.server.ApiServerApplication - Starting ApiServerApplication on JUNGDAHAEui-MacBook-Pro-2.local with PID 21026 (/Users/dhjung/code/myGithub/portfolio/build/classes/main started by dhjung in /Users/dhjung/code/myGithub/portfolio)
+2018-06-20 16:20:54 [main] DEBUG s.p.server.ApiServerApplication - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+2018-06-20 16:20:54 [main] INFO  s.p.server.ApiServerApplication - The following profiles are active: remote
+2018-06-20 16:20:54 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationPreparedEvent
+2018-06-20 16:20:54 [background-preinit] DEBUG org.jboss.logging - Logging Provider: org.jboss.logging.Slf4jLoggerProvider found via system property
+2018-06-20 16:20:54 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.6.Final
+2018-06-20 16:20:54 [background-preinit] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 16:20:54 [main] DEBUG o.m.s.b.a.MybatisAutoConfiguration - Searching for mappers annotated with @Mapper
+2018-06-20 16:20:54 [main] DEBUG o.m.s.b.a.MybatisAutoConfiguration - Using auto-configuration base package 'solunar.portfolio.server'
+2018-06-20 16:20:54 [main] WARN  o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[solunar.portfolio.server]' package. Please check your configuration.
+2018-06-20 16:20:54 [main] INFO  c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Post-processing PropertySource instances
+2018-06-20 16:20:54 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource servletConfigInitParams [org.springframework.core.env.PropertySource$StubPropertySource] to EncryptablePropertySourceWrapper
+2018-06-20 16:20:54 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource servletContextInitParams [org.springframework.core.env.PropertySource$StubPropertySource] to EncryptablePropertySourceWrapper
+2018-06-20 16:20:54 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource systemProperties [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 16:20:54 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource systemEnvironment [org.springframework.core.env.SystemEnvironmentPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 16:20:54 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource random [org.springframework.boot.context.config.RandomValuePropertySource] to EncryptablePropertySourceWrapper
+2018-06-20 16:20:54 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource applicationConfig: [classpath:/application.yml]#remote [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 16:20:54 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource applicationConfig: [classpath:/application.yml] [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 16:20:54 [main] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 16:20:54 [main] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 16:20:54 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2018-06-20 16:20:54 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2018-06-20 16:20:54 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy48
+2018-06-20 16:20:54 [main] DEBUG o.h.v.i.xml.ValidationXmlParser - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2018-06-20 16:20:54 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via user class loader
+2018-06-20 16:20:54 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via TCCL
+2018-06-20 16:20:54 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2018-06-20 16:20:54 [main] DEBUG o.h.v.i.xml.ValidationXmlParser - No META-INF/validation.xml found. Using annotation based configuration only.
+2018-06-20 16:20:54 [main] INFO  c.u.j.r.DefaultLazyPropertyResolver - Property Resolver custom Bean not found with name 'encryptablePropertyResolver'. Initializing Default Property Resolver
+2018-06-20 16:20:54 [main] INFO  c.u.j.d.DefaultLazyPropertyDetector - Property Detector custom Bean not found with name 'encryptablePropertyDetector'. Initializing Default Property Detector
+2018-06-20 16:20:55 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2018-06-20 16:20:55 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.27
+2018-06-20 16:20:55 [localhost-startStop-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2018-06-20 16:20:55 [main] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 16:20:55 [main] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 16:20:55 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2018-06-20 16:20:55 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2018-06-20 16:20:55 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy48
+2018-06-20 16:20:55 [main] DEBUG o.h.v.i.xml.ValidationXmlParser - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2018-06-20 16:20:55 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via user class loader
+2018-06-20 16:20:55 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via TCCL
+2018-06-20 16:20:55 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2018-06-20 16:20:55 [main] DEBUG o.h.v.i.xml.ValidationXmlParser - No META-INF/validation.xml found. Using annotation based configuration only.
+2018-06-20 16:20:55 [main] DEBUG o.m.s.b.a.MybatisAutoConfiguration - No org.mybatis.spring.mapper.MapperFactoryBean found.
+2018-06-20 16:20:55 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.type' for aliases
+2018-06-20 16:20:55 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.model' for aliases
+2018-06-20 16:20:55 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.typehandler' for aliases
+2018-06-20 16:20:55 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.typehandler' for type handlers
+2018-06-20 16:20:55 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.type' for type handlers
+2018-06-20 16:20:55 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Property 'mapperLocations' was not specified or no matching resources found
+2018-06-20 16:20:55 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ContextRefreshedEvent
+2018-06-20 16:20:55 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ContextRefreshedEvent
+2018-06-20 16:20:55 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8077"]
+2018-06-20 16:20:55 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8077"]
+2018-06-20 16:20:55 [main] INFO  o.a.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2018-06-20 16:20:55 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: EmbeddedServletContainerInitializedEvent
+2018-06-20 16:20:55 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: EmbeddedServletContainerInitializedEvent
+2018-06-20 16:20:55 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationReadyEvent
+2018-06-20 16:20:55 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationReadyEvent
+2018-06-20 16:20:55 [main] INFO  s.p.server.ApiServerApplication - Started ApiServerApplication in 2.151 seconds (JVM running for 2.443)
+2018-06-20 16:20:55 [main] INFO  s.p.server.ApiServerApplication - Server Started
+2018-06-20 16:20:57 [http-nio-8077-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-06-20 16:20:57 [http-nio-8077-exec-1] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 16:20:57 [http-nio-8077-exec-1] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 16:20:57 [http-nio-8077-exec-4] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 16:20:57 [http-nio-8077-exec-3] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 16:20:57 [http-nio-8077-exec-2] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 16:20:57 [http-nio-8077-exec-4] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 16:20:57 [http-nio-8077-exec-3] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 16:20:57 [http-nio-8077-exec-2] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 16:20:57 [http-nio-8077-exec-5] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 16:20:57 [http-nio-8077-exec-5] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 16:22:02 [Thread-3] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ContextClosedEvent
+2018-06-20 16:22:02 [Thread-3] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ContextClosedEvent
+2018-06-20 16:22:03 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationEnvironmentPreparedEvent
+2018-06-20 16:22:04 [main] INFO  s.p.server.ApiServerApplication - Starting ApiServerApplication on JUNGDAHAEui-MacBook-Pro-2.local with PID 21108 (/Users/dhjung/code/myGithub/portfolio/build/classes/main started by dhjung in /Users/dhjung/code/myGithub/portfolio)
+2018-06-20 16:22:04 [main] DEBUG s.p.server.ApiServerApplication - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+2018-06-20 16:22:04 [main] INFO  s.p.server.ApiServerApplication - The following profiles are active: remote
+2018-06-20 16:22:04 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationPreparedEvent
+2018-06-20 16:22:04 [background-preinit] DEBUG org.jboss.logging - Logging Provider: org.jboss.logging.Slf4jLoggerProvider found via system property
+2018-06-20 16:22:04 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.6.Final
+2018-06-20 16:22:04 [background-preinit] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 16:22:04 [main] DEBUG o.m.s.b.a.MybatisAutoConfiguration - Searching for mappers annotated with @Mapper
+2018-06-20 16:22:04 [main] DEBUG o.m.s.b.a.MybatisAutoConfiguration - Using auto-configuration base package 'solunar.portfolio.server'
+2018-06-20 16:22:04 [main] WARN  o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[solunar.portfolio.server]' package. Please check your configuration.
+2018-06-20 16:22:04 [main] INFO  c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Post-processing PropertySource instances
+2018-06-20 16:22:04 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource servletConfigInitParams [org.springframework.core.env.PropertySource$StubPropertySource] to EncryptablePropertySourceWrapper
+2018-06-20 16:22:04 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource servletContextInitParams [org.springframework.core.env.PropertySource$StubPropertySource] to EncryptablePropertySourceWrapper
+2018-06-20 16:22:04 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource systemProperties [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 16:22:04 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource systemEnvironment [org.springframework.core.env.SystemEnvironmentPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 16:22:04 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource random [org.springframework.boot.context.config.RandomValuePropertySource] to EncryptablePropertySourceWrapper
+2018-06-20 16:22:04 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource applicationConfig: [classpath:/application.yml]#remote [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 16:22:04 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource applicationConfig: [classpath:/application.yml] [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 16:22:04 [main] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 16:22:04 [main] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 16:22:04 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2018-06-20 16:22:04 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2018-06-20 16:22:04 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy48
+2018-06-20 16:22:04 [main] DEBUG o.h.v.i.xml.ValidationXmlParser - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2018-06-20 16:22:04 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via user class loader
+2018-06-20 16:22:04 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via TCCL
+2018-06-20 16:22:04 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2018-06-20 16:22:04 [main] DEBUG o.h.v.i.xml.ValidationXmlParser - No META-INF/validation.xml found. Using annotation based configuration only.
+2018-06-20 16:22:04 [main] INFO  c.u.j.r.DefaultLazyPropertyResolver - Property Resolver custom Bean not found with name 'encryptablePropertyResolver'. Initializing Default Property Resolver
+2018-06-20 16:22:04 [main] INFO  c.u.j.d.DefaultLazyPropertyDetector - Property Detector custom Bean not found with name 'encryptablePropertyDetector'. Initializing Default Property Detector
+2018-06-20 16:22:04 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2018-06-20 16:22:04 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.27
+2018-06-20 16:22:05 [localhost-startStop-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2018-06-20 16:22:05 [main] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 16:22:05 [main] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 16:22:05 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2018-06-20 16:22:05 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2018-06-20 16:22:05 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy48
+2018-06-20 16:22:05 [main] DEBUG o.h.v.i.xml.ValidationXmlParser - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2018-06-20 16:22:05 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via user class loader
+2018-06-20 16:22:05 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via TCCL
+2018-06-20 16:22:05 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2018-06-20 16:22:05 [main] DEBUG o.h.v.i.xml.ValidationXmlParser - No META-INF/validation.xml found. Using annotation based configuration only.
+2018-06-20 16:22:05 [main] DEBUG o.m.s.b.a.MybatisAutoConfiguration - No org.mybatis.spring.mapper.MapperFactoryBean found.
+2018-06-20 16:22:05 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.type' for aliases
+2018-06-20 16:22:05 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.model' for aliases
+2018-06-20 16:22:05 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.typehandler' for aliases
+2018-06-20 16:22:05 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.typehandler' for type handlers
+2018-06-20 16:22:05 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.type' for type handlers
+2018-06-20 16:22:05 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Property 'mapperLocations' was not specified or no matching resources found
+2018-06-20 16:22:05 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ContextRefreshedEvent
+2018-06-20 16:22:05 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ContextRefreshedEvent
+2018-06-20 16:22:05 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8077"]
+2018-06-20 16:22:05 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8077"]
+2018-06-20 16:22:05 [main] INFO  o.a.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2018-06-20 16:22:05 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: EmbeddedServletContainerInitializedEvent
+2018-06-20 16:22:05 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: EmbeddedServletContainerInitializedEvent
+2018-06-20 16:22:05 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationReadyEvent
+2018-06-20 16:22:05 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationReadyEvent
+2018-06-20 16:22:05 [main] INFO  s.p.server.ApiServerApplication - Started ApiServerApplication in 2.135 seconds (JVM running for 2.461)
+2018-06-20 16:22:05 [main] INFO  s.p.server.ApiServerApplication - Server Started
+2018-06-20 16:22:07 [http-nio-8077-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-06-20 16:22:07 [http-nio-8077-exec-1] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 16:22:07 [http-nio-8077-exec-1] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 16:22:07 [http-nio-8077-exec-3] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 16:22:07 [http-nio-8077-exec-2] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 16:22:07 [http-nio-8077-exec-3] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 16:22:07 [http-nio-8077-exec-2] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 16:22:07 [http-nio-8077-exec-4] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 16:22:07 [http-nio-8077-exec-4] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 16:22:57 [http-nio-8077-exec-8] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 16:22:57 [http-nio-8077-exec-8] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 16:30:07 [Thread-3] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ContextClosedEvent
+2018-06-20 16:30:07 [Thread-3] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ContextClosedEvent
+2018-06-20 16:30:09 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationEnvironmentPreparedEvent
+2018-06-20 16:30:09 [main] INFO  s.p.server.ApiServerApplication - Starting ApiServerApplication on JUNGDAHAEui-MacBook-Pro-2.local with PID 21657 (/Users/dhjung/code/myGithub/portfolio/build/classes/main started by dhjung in /Users/dhjung/code/myGithub/portfolio)
+2018-06-20 16:30:09 [main] DEBUG s.p.server.ApiServerApplication - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+2018-06-20 16:30:09 [main] INFO  s.p.server.ApiServerApplication - The following profiles are active: remote
+2018-06-20 16:30:09 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationPreparedEvent
+2018-06-20 16:30:09 [background-preinit] DEBUG org.jboss.logging - Logging Provider: org.jboss.logging.Slf4jLoggerProvider found via system property
+2018-06-20 16:30:09 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.6.Final
+2018-06-20 16:30:09 [background-preinit] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 16:30:09 [main] DEBUG o.m.s.b.a.MybatisAutoConfiguration - Searching for mappers annotated with @Mapper
+2018-06-20 16:30:09 [main] DEBUG o.m.s.b.a.MybatisAutoConfiguration - Using auto-configuration base package 'solunar.portfolio.server'
+2018-06-20 16:30:09 [main] WARN  o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[solunar.portfolio.server]' package. Please check your configuration.
+2018-06-20 16:30:09 [main] INFO  c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Post-processing PropertySource instances
+2018-06-20 16:30:09 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource servletConfigInitParams [org.springframework.core.env.PropertySource$StubPropertySource] to EncryptablePropertySourceWrapper
+2018-06-20 16:30:09 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource servletContextInitParams [org.springframework.core.env.PropertySource$StubPropertySource] to EncryptablePropertySourceWrapper
+2018-06-20 16:30:09 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource systemProperties [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 16:30:09 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource systemEnvironment [org.springframework.core.env.SystemEnvironmentPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 16:30:09 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource random [org.springframework.boot.context.config.RandomValuePropertySource] to EncryptablePropertySourceWrapper
+2018-06-20 16:30:09 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource applicationConfig: [classpath:/application.yml]#remote [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 16:30:09 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource applicationConfig: [classpath:/application.yml] [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 16:30:10 [main] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 16:30:10 [main] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 16:30:10 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2018-06-20 16:30:10 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2018-06-20 16:30:10 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy48
+2018-06-20 16:30:10 [main] DEBUG o.h.v.i.xml.ValidationXmlParser - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2018-06-20 16:30:10 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via user class loader
+2018-06-20 16:30:10 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via TCCL
+2018-06-20 16:30:10 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2018-06-20 16:30:10 [main] DEBUG o.h.v.i.xml.ValidationXmlParser - No META-INF/validation.xml found. Using annotation based configuration only.
+2018-06-20 16:30:10 [main] INFO  c.u.j.r.DefaultLazyPropertyResolver - Property Resolver custom Bean not found with name 'encryptablePropertyResolver'. Initializing Default Property Resolver
+2018-06-20 16:30:10 [main] INFO  c.u.j.d.DefaultLazyPropertyDetector - Property Detector custom Bean not found with name 'encryptablePropertyDetector'. Initializing Default Property Detector
+2018-06-20 16:30:10 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2018-06-20 16:30:10 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.27
+2018-06-20 16:30:10 [localhost-startStop-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2018-06-20 16:30:10 [main] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 16:30:10 [main] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 16:30:10 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2018-06-20 16:30:10 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2018-06-20 16:30:10 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy48
+2018-06-20 16:30:10 [main] DEBUG o.h.v.i.xml.ValidationXmlParser - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2018-06-20 16:30:10 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via user class loader
+2018-06-20 16:30:10 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via TCCL
+2018-06-20 16:30:10 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2018-06-20 16:30:10 [main] DEBUG o.h.v.i.xml.ValidationXmlParser - No META-INF/validation.xml found. Using annotation based configuration only.
+2018-06-20 16:30:10 [main] DEBUG o.m.s.b.a.MybatisAutoConfiguration - No org.mybatis.spring.mapper.MapperFactoryBean found.
+2018-06-20 16:30:10 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.type' for aliases
+2018-06-20 16:30:10 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.model' for aliases
+2018-06-20 16:30:10 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.typehandler' for aliases
+2018-06-20 16:30:10 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.typehandler' for type handlers
+2018-06-20 16:30:10 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.type' for type handlers
+2018-06-20 16:30:10 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Property 'mapperLocations' was not specified or no matching resources found
+2018-06-20 16:30:11 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ContextRefreshedEvent
+2018-06-20 16:30:11 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ContextRefreshedEvent
+2018-06-20 16:30:11 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8077"]
+2018-06-20 16:30:11 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8077"]
+2018-06-20 16:30:11 [main] INFO  o.a.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2018-06-20 16:30:11 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: EmbeddedServletContainerInitializedEvent
+2018-06-20 16:30:11 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: EmbeddedServletContainerInitializedEvent
+2018-06-20 16:30:11 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationReadyEvent
+2018-06-20 16:30:11 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationReadyEvent
+2018-06-20 16:30:11 [main] INFO  s.p.server.ApiServerApplication - Started ApiServerApplication in 2.1 seconds (JVM running for 2.445)
+2018-06-20 16:30:11 [main] INFO  s.p.server.ApiServerApplication - Server Started
+2018-06-20 16:30:12 [http-nio-8077-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-06-20 16:30:12 [http-nio-8077-exec-1] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 16:30:12 [http-nio-8077-exec-1] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 16:58:44 [http-nio-8077-exec-7] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 16:58:44 [http-nio-8077-exec-7] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 17:01:23 [Thread-3] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ContextClosedEvent
+2018-06-20 17:01:23 [Thread-3] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ContextClosedEvent
+2018-06-20 17:01:25 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationEnvironmentPreparedEvent
+2018-06-20 17:01:25 [main] INFO  s.p.server.ApiServerApplication - Starting ApiServerApplication on JUNGDAHAEui-MacBook-Pro-2.local with PID 23810 (/Users/dhjung/code/myGithub/portfolio/build/classes/main started by dhjung in /Users/dhjung/code/myGithub/portfolio)
+2018-06-20 17:01:25 [main] DEBUG s.p.server.ApiServerApplication - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+2018-06-20 17:01:25 [main] INFO  s.p.server.ApiServerApplication - The following profiles are active: remote
+2018-06-20 17:01:25 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationPreparedEvent
+2018-06-20 17:01:25 [background-preinit] DEBUG org.jboss.logging - Logging Provider: org.jboss.logging.Slf4jLoggerProvider found via system property
+2018-06-20 17:01:25 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.6.Final
+2018-06-20 17:01:25 [background-preinit] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 17:01:25 [main] DEBUG o.m.s.b.a.MybatisAutoConfiguration - Searching for mappers annotated with @Mapper
+2018-06-20 17:01:25 [main] DEBUG o.m.s.b.a.MybatisAutoConfiguration - Using auto-configuration base package 'solunar.portfolio.server'
+2018-06-20 17:01:25 [main] WARN  o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[solunar.portfolio.server]' package. Please check your configuration.
+2018-06-20 17:01:25 [main] INFO  c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Post-processing PropertySource instances
+2018-06-20 17:01:25 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource servletConfigInitParams [org.springframework.core.env.PropertySource$StubPropertySource] to EncryptablePropertySourceWrapper
+2018-06-20 17:01:25 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource servletContextInitParams [org.springframework.core.env.PropertySource$StubPropertySource] to EncryptablePropertySourceWrapper
+2018-06-20 17:01:25 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource systemProperties [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 17:01:25 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource systemEnvironment [org.springframework.core.env.SystemEnvironmentPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 17:01:25 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource random [org.springframework.boot.context.config.RandomValuePropertySource] to EncryptablePropertySourceWrapper
+2018-06-20 17:01:25 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource applicationConfig: [classpath:/application.yml]#remote [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 17:01:25 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource applicationConfig: [classpath:/application.yml] [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 17:01:25 [main] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 17:01:25 [main] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 17:01:25 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2018-06-20 17:01:25 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2018-06-20 17:01:25 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy48
+2018-06-20 17:01:25 [main] DEBUG o.h.v.i.xml.ValidationXmlParser - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2018-06-20 17:01:25 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via user class loader
+2018-06-20 17:01:25 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via TCCL
+2018-06-20 17:01:25 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2018-06-20 17:01:25 [main] DEBUG o.h.v.i.xml.ValidationXmlParser - No META-INF/validation.xml found. Using annotation based configuration only.
+2018-06-20 17:01:26 [main] INFO  c.u.j.r.DefaultLazyPropertyResolver - Property Resolver custom Bean not found with name 'encryptablePropertyResolver'. Initializing Default Property Resolver
+2018-06-20 17:01:26 [main] INFO  c.u.j.d.DefaultLazyPropertyDetector - Property Detector custom Bean not found with name 'encryptablePropertyDetector'. Initializing Default Property Detector
+2018-06-20 17:01:26 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2018-06-20 17:01:26 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.27
+2018-06-20 17:01:26 [localhost-startStop-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2018-06-20 17:01:26 [main] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 17:01:26 [main] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 17:01:26 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2018-06-20 17:01:26 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2018-06-20 17:01:26 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy48
+2018-06-20 17:01:26 [main] DEBUG o.h.v.i.xml.ValidationXmlParser - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2018-06-20 17:01:26 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via user class loader
+2018-06-20 17:01:26 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via TCCL
+2018-06-20 17:01:26 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2018-06-20 17:01:26 [main] DEBUG o.h.v.i.xml.ValidationXmlParser - No META-INF/validation.xml found. Using annotation based configuration only.
+2018-06-20 17:01:26 [main] DEBUG o.m.s.b.a.MybatisAutoConfiguration - No org.mybatis.spring.mapper.MapperFactoryBean found.
+2018-06-20 17:01:26 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.type' for aliases
+2018-06-20 17:01:26 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.model' for aliases
+2018-06-20 17:01:26 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.typehandler' for aliases
+2018-06-20 17:01:26 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.typehandler' for type handlers
+2018-06-20 17:01:26 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.type' for type handlers
+2018-06-20 17:01:26 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Property 'mapperLocations' was not specified or no matching resources found
+2018-06-20 17:01:26 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ContextRefreshedEvent
+2018-06-20 17:01:26 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ContextRefreshedEvent
+2018-06-20 17:01:26 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8077"]
+2018-06-20 17:01:26 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8077"]
+2018-06-20 17:01:26 [main] INFO  o.a.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2018-06-20 17:01:26 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: EmbeddedServletContainerInitializedEvent
+2018-06-20 17:01:26 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: EmbeddedServletContainerInitializedEvent
+2018-06-20 17:01:26 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationReadyEvent
+2018-06-20 17:01:26 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationReadyEvent
+2018-06-20 17:01:26 [main] INFO  s.p.server.ApiServerApplication - Started ApiServerApplication in 2.1 seconds (JVM running for 2.461)
+2018-06-20 17:01:26 [main] INFO  s.p.server.ApiServerApplication - Server Started
+2018-06-20 17:01:29 [http-nio-8077-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-06-20 17:01:29 [http-nio-8077-exec-1] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 17:01:29 [http-nio-8077-exec-1] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 17:01:29 [http-nio-8077-exec-2] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 17:01:29 [http-nio-8077-exec-3] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 17:01:29 [http-nio-8077-exec-2] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 17:01:29 [http-nio-8077-exec-3] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 17:03:58 [Thread-3] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ContextClosedEvent
+2018-06-20 17:03:58 [Thread-3] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ContextClosedEvent
+2018-06-20 17:04:00 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationEnvironmentPreparedEvent
+2018-06-20 17:04:00 [main] INFO  s.p.server.ApiServerApplication - Starting ApiServerApplication on JUNGDAHAEui-MacBook-Pro-2.local with PID 23987 (/Users/dhjung/code/myGithub/portfolio/build/classes/main started by dhjung in /Users/dhjung/code/myGithub/portfolio)
+2018-06-20 17:04:00 [main] DEBUG s.p.server.ApiServerApplication - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+2018-06-20 17:04:00 [main] INFO  s.p.server.ApiServerApplication - The following profiles are active: remote
+2018-06-20 17:04:00 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationPreparedEvent
+2018-06-20 17:04:00 [background-preinit] DEBUG org.jboss.logging - Logging Provider: org.jboss.logging.Slf4jLoggerProvider found via system property
+2018-06-20 17:04:00 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.6.Final
+2018-06-20 17:04:00 [background-preinit] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 17:04:00 [main] DEBUG o.m.s.b.a.MybatisAutoConfiguration - Searching for mappers annotated with @Mapper
+2018-06-20 17:04:00 [main] DEBUG o.m.s.b.a.MybatisAutoConfiguration - Using auto-configuration base package 'solunar.portfolio.server'
+2018-06-20 17:04:00 [main] WARN  o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[solunar.portfolio.server]' package. Please check your configuration.
+2018-06-20 17:04:01 [main] INFO  c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Post-processing PropertySource instances
+2018-06-20 17:04:01 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource servletConfigInitParams [org.springframework.core.env.PropertySource$StubPropertySource] to EncryptablePropertySourceWrapper
+2018-06-20 17:04:01 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource servletContextInitParams [org.springframework.core.env.PropertySource$StubPropertySource] to EncryptablePropertySourceWrapper
+2018-06-20 17:04:01 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource systemProperties [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 17:04:01 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource systemEnvironment [org.springframework.core.env.SystemEnvironmentPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 17:04:01 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource random [org.springframework.boot.context.config.RandomValuePropertySource] to EncryptablePropertySourceWrapper
+2018-06-20 17:04:01 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource applicationConfig: [classpath:/application.yml]#remote [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 17:04:01 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource applicationConfig: [classpath:/application.yml] [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2018-06-20 17:04:01 [main] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 17:04:01 [main] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 17:04:01 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2018-06-20 17:04:01 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2018-06-20 17:04:01 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy48
+2018-06-20 17:04:01 [main] DEBUG o.h.v.i.xml.ValidationXmlParser - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2018-06-20 17:04:01 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via user class loader
+2018-06-20 17:04:01 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via TCCL
+2018-06-20 17:04:01 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2018-06-20 17:04:01 [main] DEBUG o.h.v.i.xml.ValidationXmlParser - No META-INF/validation.xml found. Using annotation based configuration only.
+2018-06-20 17:04:01 [main] INFO  c.u.j.r.DefaultLazyPropertyResolver - Property Resolver custom Bean not found with name 'encryptablePropertyResolver'. Initializing Default Property Resolver
+2018-06-20 17:04:01 [main] INFO  c.u.j.d.DefaultLazyPropertyDetector - Property Detector custom Bean not found with name 'encryptablePropertyDetector'. Initializing Default Property Detector
+2018-06-20 17:04:01 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2018-06-20 17:04:01 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.27
+2018-06-20 17:04:01 [localhost-startStop-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2018-06-20 17:04:01 [main] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 17:04:01 [main] DEBUG o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-06-20 17:04:01 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2018-06-20 17:04:01 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2018-06-20 17:04:01 [main] DEBUG o.h.v.i.engine.ConfigurationImpl - Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy48
+2018-06-20 17:04:01 [main] DEBUG o.h.v.i.xml.ValidationXmlParser - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2018-06-20 17:04:01 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via user class loader
+2018-06-20 17:04:01 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via TCCL
+2018-06-20 17:04:01 [main] DEBUG o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2018-06-20 17:04:01 [main] DEBUG o.h.v.i.xml.ValidationXmlParser - No META-INF/validation.xml found. Using annotation based configuration only.
+2018-06-20 17:04:02 [main] DEBUG o.m.s.b.a.MybatisAutoConfiguration - No org.mybatis.spring.mapper.MapperFactoryBean found.
+2018-06-20 17:04:02 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.type' for aliases
+2018-06-20 17:04:02 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.model' for aliases
+2018-06-20 17:04:02 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.typehandler' for aliases
+2018-06-20 17:04:02 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.typehandler' for type handlers
+2018-06-20 17:04:02 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Scanned package: 'com.atto.server.type' for type handlers
+2018-06-20 17:04:02 [main] DEBUG o.m.spring.SqlSessionFactoryBean - Property 'mapperLocations' was not specified or no matching resources found
+2018-06-20 17:04:02 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ContextRefreshedEvent
+2018-06-20 17:04:02 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ContextRefreshedEvent
+2018-06-20 17:04:02 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8077"]
+2018-06-20 17:04:02 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8077"]
+2018-06-20 17:04:02 [main] INFO  o.a.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2018-06-20 17:04:02 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: EmbeddedServletContainerInitializedEvent
+2018-06-20 17:04:02 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: EmbeddedServletContainerInitializedEvent
+2018-06-20 17:04:02 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationReadyEvent
+2018-06-20 17:04:02 [main] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ApplicationReadyEvent
+2018-06-20 17:04:02 [main] INFO  s.p.server.ApiServerApplication - Started ApiServerApplication in 2.192 seconds (JVM running for 2.55)
+2018-06-20 17:04:02 [main] INFO  s.p.server.ApiServerApplication - Server Started
+2018-06-20 17:04:05 [http-nio-8077-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-06-20 17:04:05 [http-nio-8077-exec-1] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 17:04:05 [http-nio-8077-exec-1] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 17:04:05 [http-nio-8077-exec-2] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 17:04:05 [http-nio-8077-exec-3] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 17:04:05 [http-nio-8077-exec-2] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 17:04:05 [http-nio-8077-exec-3] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ServletRequestHandledEvent
+2018-06-20 17:04:25 [Thread-3] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ContextClosedEvent
+2018-06-20 17:04:25 [Thread-3] DEBUG c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Application Event Raised: ContextClosedEvent
