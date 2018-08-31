@@ -35,14 +35,14 @@
 // });
 
 // web-04
-window.onload = function () {
-    document.getElementById("select1").onchange = function () {
-        document.getElementById("result").innerHTML = document.getElementById("select1").value;
-    }
-}
-
-$(document).ready(function () {
-    $("#select2").on("change", function () {
-        $("#result").text($("#select2").val());
-    });
-});
+// window.onload = function () {
+//     document.getElementById("select1").onchange = function () {
+//         document.getElementById("result").innerHTML = document.getElementById("select1").value;
+//     }
+// }
+//
+// $(document).ready(function () {
+//     $("#select2").on("change", function () {
+//         $("#result").text($("#select2").val());
+//     });
+// });
